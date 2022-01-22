@@ -1,0 +1,20 @@
+{
+  "name": "cord-portfolio",
+  "short_name": "portfolio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#c3622a",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "https://corddigital.com/images/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.top4top.net/p_13347j9bg1.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.table {
+    width: 250vw;
+}
+
+input,
+select{
+    height: 9vh!important;
+}

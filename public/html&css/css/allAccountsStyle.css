@@ -1,0 +1,84 @@
+
+/*  */
+body {
+  overflow-x: scroll;
+}
+
+table {
+  /* width: 250vw !important; */
+  width: 100%;
+}
+
+.lg-cell{
+  width: 150vw;
+}
+
+.sm-cell{
+  width: 50vw;
+}
+
+.xs-cell{
+  width: 12vw;
+}
+
+textarea,
+input{
+  width: 100%;
+  border: none;
+  background: transparent;
+}
+
+input,
+select{
+  height: 5vh;
+}
+
+td{
+  padding: 0!important;
+}
+
+.color-red{
+  background-color: brown;
+}
+
+.color-yellow{
+  background-color: darkorange;
+}
+
+.currency-container{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.currency-container select{
+  width: 65%;
+}
+
+#links-container{
+  color: blue;
+}
+
+#currency-input,
+#select-currency{
+  width: 50%;
+  background-color: #ccc;
+}
+
+
+#currency-p{
+  width: 60%;
+  margin: 0 0 0 5px;
+}
+
+.currency-input,
+.select-currency{
+  width: 50%;
+  background-color: #ccc;
+}
+
+.currency-p{
+  width: 60%;
+  margin: 0 0 0 5px;
+}

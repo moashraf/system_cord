@@ -1,0 +1,72 @@
+h1 {
+  margin-top: 2%;
+}
+
+.submit-form, .table-form {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 3% 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-group input {
+  width: 80%;
+}
+
+.submit-form button {
+  margin-left: 80%;
+  width: 20%;
+}
+
+.bg-danger {
+  background-color: #d9534f !important;
+}
+
+.bg-success {
+  background-color: #5cb85c !important;
+}
+
+.bg-warning {
+  background-color: #f0ad4e !important;
+}
+
+.bg-faded {
+  background-color: #f7f7f7 !important;
+}
+
+tbody tr {
+  background-color: #f7f7f7 !important;
+}
+
+td input{
+  background-color: transparent;
+  border: none;
+}
+
+.selectStyle{
+  width: 80%;
+}
+
+.textareaStyle{
+  width: 80%;
+  border: 1px solid #ced4da;
+}
+
+.selectContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.selectContainer select,
+.selectContainer input{
+  width: 45%;
+}

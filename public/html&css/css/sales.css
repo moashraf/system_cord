@@ -1,0 +1,15 @@
+.table{
+    width: 152vw!important;
+}
+
+#showContentBtn{
+    background-color: #ccc;
+    border: none;
+    color: black;
+    height: 100%;
+  
+}
+
+.xs-cell {
+    width: 5vw;
+}

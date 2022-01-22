@@ -1,0 +1,1408 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^public
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Sectigo\ DCV)?$
+RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+
+
+Redirect 301 /en/singel_post/The-Best-web-design-companies-in-Egypt/482 /en/The-Best-web-design-companies-in-Egypt/
+
+Redirect 301 /en/singel_post/search-engine-optimization-google/481 /en/search-engine-optimization-google/
+
+Redirect 301 /en/singel_post/Best-Digital-Marketing-company-in-egypt/480 /en/Best-Digital-Marketing-company-in-egypt/
+
+Redirect 301 /en/singel_post/_how-to-marketing-new-products/194 /en/_how-to-marketing-new-products/
+
+Redirect 301 /en/singel_post/_how-to-build-backlinks/177 /en/_how-to-build-backlinks/
+
+Redirect 301 /en/singel_post/_why-your-business-should-invest-in-seo/191 /en/_why-your-business-should-invest-in-seo/
+
+Redirect 301 /en/singel_post/_how-to-choose-a-web-design-company/197 /en/_how-to-choose-a-web-design-company
+
+Redirect 301 /en/singel_post/__the-future-of-digital-marketing-is-personalizatio/200 /en/the-future-of-digital-marketing-is-personalizatio/
+
+Redirect 301 /en/singel_post/_how-to-create-ads-on-google-adwords/172 /en/how-to-create-ads-on-google-adwords/
+
+Redirect 301 /en/singel_post/_whats-the-meaning-of-branding/189 /en/whats-the-meaning-of-branding/
+
+Redirect 301 /en/singel_post/_types-of-marketing-and-their-differences/167 /en/_types-of-marketing-and-their-differences/
+
+Redirect 301 /en/singel_post/_what-is-the-meaning-content-marketing/165 /en/_what-is-the-meaning-content-marketing/
+
+Redirect 301 /en/singel_post/_weekly-news-to-keep-you-updated-on-whats-happening/174 /en/_weekly-news-to-keep-you-updated-on-whats-happening/
+
+Redirect 301 /en/singel_post/_host-and-domain-understanding-the-difference/163 /en/_host-and-domain-understanding-the-difference/
+
+Redirect 301 /en/singel_post/_compare-between-seo-and-sem/170 /en/_compare-between-seo-and-sem/
+
+Redirect 301 /en/singel_post/__learn-about-digital-marketing-from-the-beginning-to-the-end/199 /en/__learn-about-digital-marketing-from-the-beginning-to-the-end/
+
+Redirect 301 /en/singel_post/_weekly-updates-and-new-about-digital-marketing-and-technology/164 /en/_weekly-updates-and-new-about-digital-marketing-and-technology/
+
+Redirect 301 /en/singel_post/how-to-create-a-social-media-companies/175 /en/how-to-create-a-social-media-companies/
+
+Redirect 301 /en/singel_post/_weekly-news-to-keep-you-updated-on-marketing/176 /en/_weekly-news-to-keep-you-updated-on-marketing/
+
+Redirect 301 /en/singel_post/_how-to-become-a-freelancer/173 /en/_how-to-become-a-freelancer/
+
+Redirect 301 /en/singel_post/___the-importance-to-use-tools-in-digital-marketing/169 /en/___the-importance-to-use-tools-in-digital-marketing/
+
+Redirect 301 /en/singel_post/_how-to-start-social-media/180 /en/_how-to-start-social-media/
+
+Redirect 301 /en/singel_post/_top-10-seo-rank-tracking-tools-in-search-engine/153 /en/_top-10-seo-rank-tracking-tools-in-search-engine/
+
+Redirect 301 /en/singel_post/the-difference-between-the-graphic-designer-and-web-designer/236 /en/the-difference-between-the-graphic-designer-and-web-designer/
+
+Redirect 301 /en/singel_post/__5-killing-mistakes-in-digital-marketing/195 /en/__5-killing-mistakes-in-digital-marketing/
+
+Redirect 301 /en/singel_post/__the-marketing-mix-is-key-to-a-successful-marketing-plan/198 /en/__the-marketing-mix-is-key-to-a-successful-marketing-plan/
+
+Redirect 301 /en/singel_post/_weekly-updates-about-the-world/166 /en/_weekly-updates-about-the-world/
+
+Redirect 301 /en/singel_post/_franchise-concept/106 /en/_franchise-concept/
+
+Redirect 301 /en/singel_post/_the-best-free-ftp-clients/129 /en/_the-best-free-ftp-clients/
+
+Redirect 301 /en/singel_post/___why-franchising/99 /en/___why-franchising/
+
+Redirect 301 /en/singel_post/_what-are-the-digital-marketing-services/202 /en/_what-are-the-digital-marketing-services/
+
+Redirect 301 /en/singel_post/_Search-engine-optimization/109 /en/_Search-engine-optimization/
+
+Redirect 301 /en/singel_post/_Importance-of-content-marketing/111 /en/_Importance-of-content-marketing/
+
+Redirect 301 /en/singel_post/_choose-cord-digital/100 /en/_choose-cord-digital/
+
+Redirect 301 /en/singel_post/_what-is-cms/130 /en/_what-is-cms/
+
+Redirect 301 /en/singel_post/_top-marketing-tips/138 /en/_top-marketing-tips/
+
+Redirect 301 /en/singel_post/_how-to-develop-industry-in-egypt/112 /en/_how-to-develop-industry-in-egypt/
+
+Redirect 301 /en/singel_post/_return-on-investment-in-online-campaigns/110 /en/_return-on-investment-in-online-campaigns/
+
+Redirect 301 /en/singel_post/_why-benchmarking/102 /en/_why-benchmarking/
+
+Redirect 301 /en/singel_post/_behind-enemy-lines-with-google/115 /en/_behind-enemy-lines-with-google/
+
+Redirect 301 /en/singel_post/_get-in-shape-with-seo/114 /en/_get-in-shape-with-seo/
+
+Redirect 301 /en/singel_post/_the-7-secrets-of-making-money/113 /en/_the-7-secrets-of-making-money/
+
+Redirect 301 /en/singel_post/___blogimportance-of-websites/119 /en/___blogimportance-of-websites/
+
+Redirect 301 /en/singel_post/_what-is-meaning-of-outsourcing/117 /en/_what-is-meaning-of-outsourcing/
+
+Redirect 301 /en/singel_post/_need-to-outsource/116 /en/_need-to-outsource/
+
+Redirect 301 /en/singel_post/_how-to-create-twitter-ads/122 /en/_how-to-create-twitter-ads/
+
+Redirect 301 /en/singel_post/_acebook-advertising/121 /en/_acebook-advertising/
+
+Redirect 301 /en/singel_post/__importance-of-marketing-for-success/120 /en/__importance-of-marketing-for-success/
+
+Redirect 301 /en/singel_post/_brand-identity-development/123 /en/_brand-identity-development/
+
+Redirect 301 /en/singel_post/_how-to-choose-highest-keyword-search-volume/124 /en/_how-to-choose-highest-keyword-search-volume/
+
+Redirect 301 /en/singel_post/_online-marketing-services-as-clients/125 /en/_online-marketing-services-as-clients/
+
+Redirect 301 /en/singel_post/_new-services-from-facebook/128 /en/_new-services-from-facebook/
+
+Redirect 301 /en/singel_post/_economies-of-scale-scope-marketing-scm-strategic/127 /en/_economies-of-scale-scope-marketing-scm-strategic/
+
+Redirect 301 /en/singel_post/_the-importance-strategic-integration-marketing-scm/126 /en/_the-importance-strategic-integration-marketing-scm/
+
+Redirect 301 /en/singel_post/_e-commerce-seo-strategic-redesign-web-shops/133 /en/_e-commerce-seo-strategic-redesign-web-shops/
+
+Redirect 301 /en/singel_post/_mobile-marketing-amplification-content/132 /en/_mobile-marketing-amplification-content/
+
+Redirect 301 /en/singel_post/_factors-that-impacting-your-organic-traffic/131 /en/_factors-that-impacting-your-organic-traffic/
+
+Redirect 301 /en/singel_post/_https-setup-causing-seo-issues/136 /en/_https-setup-causing-seo-issues/
+
+Redirect 301 /en/singel_post/_bing-testing-twitter-results-search-results/135 /en/_bing-testing-twitter-results-search-results/
+
+Redirect 301 /en/singel_post/_google-brings-rich-results-filter-to-search-analytics/134 /en/_google-brings-rich-results-filter-to-search-analytics/
+
+Redirect 301 /en/singel_post/_top-webdesign-topics/140 /en/_top-webdesign-topics/
+
+Redirect 301 /en/singel_post/_social-media-marketing-tips/139 /en/_social-media-marketing-tips/
+
+Redirect 301 /en/singel_post/_common-seo-mistakes-content-marketers/137 /en/_common-seo-mistakes-content-marketers/
+
+Redirect 301 /en/singel_post/_blog-is-primary-in-digital-marketing-reason-is-content/143 /en/_blog-is-primary-in-digital-marketing-reason-is-content/
+
+Redirect 301 /en/singel_post/_how-to-be-web-designer/142 /en/_how-to-be-web-designer/
+
+Redirect 301 /en/singel_post/_web-development-tips-to-boost-your-skills/141 /en/_web-development-tips-to-boost-your-skills/
+
+Redirect 301 /en/singel_post/_the-important-and-recent-five-challenges-for-seo/146 /en/_the-important-and-recent-five-challenges-for-seo/
+
+Redirect 301 /en/singel_post/_importance-of-publicity-and-seo/145 /en/_importance-of-publicity-and-seo/
+
+Redirect 301 /en/singel_post/_how-do-you-use-hashtag-top-efficiency-in-e-marketing-for-your-company/144 /en/_how-do-you-use-hashtag-top-efficiency-in-e-marketing-for-your-company/
+
+Redirect 301 /en/singel_post/_different-between-blueprinting-flowcharting/149 /en/_different-between-blueprinting-flowcharting/
+
+Redirect 301 /en/singel_post/_how-to-start-in-social-media-in-nine-steps/148 /en/_how-to-start-in-social-media-in-nine-steps/
+
+Redirect 301 /en/singel_post/_better-social-media-tools-to-help-you/147 /en/_better-social-media-tools-to-help-you/
+
+Redirect 301 /en/singel_post/_what-is-the-importance-of-digital-marketing/152 /en/_what-is-the-importance-of-digital-marketing/
+
+Redirect 301 /en/singel_post/_the-difference-between-traditional-and-digital-marketing/151 /en/_the-difference-between-traditional-and-digital-marketing/
+
+Redirect 301 /en/singel_post/_differences-between-the-marketing-of-a-product-and-service/150 /en/_differences-between-the-marketing-of-a-product-and-service/
+
+Redirect 301 /en/singel_post/_weekly-marketing-newsletter/157 /en/_weekly-marketing-newsletter/
+
+Redirect 301 /en/singel_post/_7-effective-steps-to-start-a-successful-digital-marketing/155 /en/_7-effective-steps-to-start-a-successful-digital-marketing/
+
+Redirect 301 /en/singel_post/_how-can-you-follow-up-all-digital-marketing-news-and-updates/154 /en/_how-can-you-follow-up-all-digital-marketing-news-and-updates/
+
+Redirect 301 /en/singel_post/_barriers-faced-by-digital-marketing/160 /en/_barriers-faced-by-digital-marketing/
+
+Redirect 301 /en/singel_post/_weekly-marketing-updates/159 /en/_weekly-marketing-updates/
+
+Redirect 301 /en/singel_post/_how-to-analyze-your-competitors-in-social-media-platform/158 /en/_how-to-analyze-your-competitors-in-social-media-platform/
+
+Redirect 301 /en/singel_post/_updated-news-about-the-digital-world-and-marketing/168 /en/_updated-news-about-the-digital-world-and-marketing/
+
+Redirect 301 /en/singel_post/_advantages-and-disadvantages-of-using-wordpress/162 /en/_advantages-and-disadvantages-of-using-wordpress/
+
+Redirect 301 /en/singel_post/_weekly-digital-marketing-updates-and-news/161 /en/_weekly-digital-marketing-updates-and-news/
+
+Redirect 301 /en/singel_post/_how-to-make-partnership-around-the-world-special-in-italia/179 /en/_how-to-make-partnership-around-the-world-special-in-italia/
+
+Redirect 301 /en/singel_post/_weekly-news-and-updates-on-news-in-the-digital-world/178 /en/_weekly-news-and-updates-on-news-in-the-digital-world/
+
+Redirect 301 /en/singel_post/_weekly-updates-and-news-about-the-digital-world/171 /en/_weekly-updates-and-news-about-the-digital-world/
+
+Redirect 301 /en/singel_post/_the-tools-in-digital-marketing/183 /en/_the-tools-in-digital-marketing/
+
+Redirect 301 /en/singel_post/_what-is-the-meaning-of-franchising/182 /en/_what-is-the-meaning-of-franchising/
+
+Redirect 301 /en/singel_post/_updates-on-the-digital-world/181 /en/_updates-on-the-digital-world/
+
+Redirect 301 /en/singel_post/_how-to-be-a-web-developer/185 /en/_how-to-be-a-web-developer/
+
+Redirect 301 /en/singel_post/_top-10-website-to-check-your-backlink/184 /en/_top-10-website-to-check-your-backlink/
+
+Redirect 301 /en/singel_post/SEO-services/493 /en/SEO-services/
+
+Redirect 301 /en/singel_post/_the-most-important-future-expectations-in-the-seo/190 /en/_the-most-important-future-expectations-in-the-seo/
+
+Redirect 301 /en/singel_post/_top-10-website-to-get-creative-photos/187 /en/_top-10-website-to-get-creative-photos/
+
+Redirect 301 /en/singel_post/_updates-on-the-digital-marketing/186 /en/_updates-on-the-digital-marketing/
+
+Redirect 301 /en/singel_post/_pricing-strategy-for-your-product-or-service/201 /en/_pricing-strategy-for-your-product-or-service/
+
+Redirect 301 /en/singel_post/_the-evolution-and-development-of-digital-marketing/196 /en/_the-evolution-and-development-of-digital-marketing/
+
+Redirect 301 /en/singel_post/_top-5-factors-to-reach-the-first-page-in-google/193 /en/_top-5-factors-to-reach-the-first-page-in-google/
+
+Redirect 301 /en/singel_post/Story-Of-Success-CORD-DIGITAL/496 /en/Story-Of-Success-CORD-DIGITAL/
+
+Redirect 301 /en/singel_post/CORD-Digital-employees-celebrate-the-Muslim-holy-month/495 /en/CORD-Digital-employees-celebrate-the-Muslim-holy-month/
+
+Redirect 301 /en/singel_post/CORD-Digital-Celebrates-Halloween/494 /en/CORD-Digital-Celebrates-Halloween/
+
+Redirect 301 /en/singel_post/_TRIP_TO_ITALY_WITH_THE_OWNER_OF_DBK_PHARMA/380 /en/_TRIP_TO_ITALY_WITH_THE_OWNER_OF_DBK_PHARMA/
+
+Redirect 301 /en/singel_post/CORD-Digital-Startup-Announces-its-Launch/498 /en/CORD-Digital-Startup-Announces-its-Launch/
+
+Redirect 301 /en/singel_post/CORD-Digital-officially-opens-a-New-location/497 /en/CORD-Digital-officially-opens-a-New-location/
+
+Redirect 301 /en/all_packages/Packages/35 /en/all_packages/Packages/
+
+Redirect 301 /en/singel_packages/Social-Media-Packages/48 /en/packages/Social-Media-Packages/
+
+Redirect 301 /en/singel_packages/pay-per-click--Packages/51 /en/packages/pay-per-click--Packages/
+
+Redirect 301 /en/singel_packages/SEO-Packages/37 /en/packages/SEO-Packages/
+
+Redirect 301 /en/singel_packages/Video-&-Multimedia-Packages/39 /en/packages/Video-&-Multimedia-Packages/
+
+Redirect 301 /en/singel_packages/Graphics-&-Photography--Packages/40 /en/packages/Graphics-&-Photography--Packages/
+
+Redirect 301 /en/singel_packages/Mobile-application--Packages/41 /en/packages/Mobile-application--Packages/
+
+Redirect 301 /en/singel_packages/Web-Packages/38 /en/packages/Web-Packages/
+
+Redirect 301 /en/all_services/Digital-Marketing-services-/30 /en/all_services/Digital-Marketing-services-/
+
+Redirect 301 /en/singel_services/________social-media-marketing/203 /en/services/________social-media-marketing/
+
+Redirect 301 /en/singel_services/_____online-advertising/204 /en/services/_____online-advertising/
+
+Redirect 301 /en/singel_services/_______seo/205 /en/services/_______seo/
+
+Redirect 301 /en/singel_services/conversion-optimization/211 /en/services/conversion-optimization/
+
+Redirect 301 /en/singel_services/________content-marketing/212 /en/services/________content-marketing/
+
+Redirect 301 /en/singel_services/___________web-developing/214 /en/services/___________web-developing/
+
+Redirect 301 /en/singel_services/________web-design/213 /en/services/________web-design/
+
+Redirect 301 /en/singel_services/____________mobile-app/215 /en/services/____________mobile-app/
+
+Redirect 301 /en/singel_services/graphic-design/216 /en/services/graphic-design/
+
+Redirect 301 /en/singel_services/_____photography/217 /en/services/_____photography/
+
+Redirect 301 /en/singel_services/____Motion_graphic/395 /en/services/____Motion_graphic/
+
+Redirect 301 /en/singel_services/Animation/393 /en/services/Animation/
+
+Redirect 301 /en/singel_services/____%C2%A0Visual_effects/394 /en/services/____%C2%A0Visual_effects/
+
+Redirect 301 /en/singel_services/______Outsourcing/250 /en/services/______Outsourcing/
+
+Redirect 301 /en/singel_services/_____Franchising/382 /en/services/_____Franchising
+
+Redirect 301 /en/all_methodology/Methodology/34 /en/all_methodology/Methodology/
+
+Redirect 301 /en/singel_portfolio/DBK-Pharma/457 /en/portfolio/DBK-Pharma/
+
+Redirect 301 /en/singel_portfolio/_EL_MASHROO3_-_Video_marketing/341 /en/portfolio/_EL_MASHROO3_-_Video_marketing/
+
+Redirect 301 /en/singel_portfolio/________Abisyara/274 /en/portfolio/________Abisyara/
+
+Redirect 301 /en/singel_portfolio/Eltafwak---Video-Marketing/475 /en/portfolio/Eltafwak---Video-Marketing/
+
+Redirect 301 /en/singel_portfolio/_The_House_short_video/260 /en/portfolio/_The_House_short_video/
+
+Redirect 301 /en/singel_portfolio/El_wessam_group_-_video_marketing/367 /en/portfolio/El_wessam_group_-_video_marketing/
+
+Redirect 301 /en/singel_portfolio/Misr_Helwan_-_Video_marketing/428 /en/portfolio/Misr_Helwan_-_Video_marketing/
+
+Redirect 301 /en/singel_portfolio/Premdion_-_Spa_&_prevention_-_video_marketing/358 /en/portfolio/Premdion_-_Spa_&_prevention_-_video_marketing/
+
+Redirect 301 /en/singel_portfolio/Change_international_business_training/359 /en/portfolio/Change_international_business_training/
+
+Redirect 301 /en/singel_portfolio/____Panasonic_and_Fagor_Mother's_day/251 /en/portfolio/____Panasonic_and_Fagor_Mother's_day/
+
+Redirect 301 /en/singel_portfolio/El-Talah-Garden-Video-Marketing/456 /en/portfolio/El-Talah-Garden-Video-Marketing/
+
+Redirect 301 /en/singel_portfolio/ftrina-video/308 /en/portfolio/ftrina-video/
+
+Redirect 301 /en/singel_portfolio/_eldomiaty-video-cord-digital/309 /en/portfolio/_eldomiaty-video-cord-digital/
+
+Redirect 301 /en/singel_portfolio/diet_house_video_by_cord_digital_team/305 /en/portfolio/diet_house_video_by_cord_digital_team/
+
+Redirect 301 /en/singel_portfolio/Fagor_graphic_video/263 /en/portfolio/Fagor_graphic_video/
+
+Redirect 301 /en/singel_portfolio/New_You_Motion_graphic/262 /en/portfolio/New_You_Motion_graphic/
+
+Redirect 301 /en/singel_portfolio/Video_Marketing_-_Nile_Line_Company/346 /en/portfolio/Video_Marketing_-_Nile_Line_Company/
+
+Redirect 301 /en/singel_portfolio/B-REAL_ESTATE_-_Video_marketing/343 /en/portfolio/B-REAL_ESTATE_-_Video_marketing/
+
+Redirect 301 /en/singel_portfolio/bid_zone_-_video_marketing/344 /en/portfolio/bid_zone_-_video_marketing/
+
+Redirect 301 /en/singel_portfolio/Basmet-Elriyadh---Graphics/477 /en/portfolio/Basmet-Elriyadh---Graphics/
+
+Redirect 301 /en/singel_portfolio/El-Tafwok---Graphics/478 /en/portfolio/El-Tafwok---Graphics/
+
+Redirect 301 /en/singel_portfolio/Nerd-Graphics/452 /en/portfolio/Nerd-Graphics/
+
+Redirect 301 /en/singel_portfolio/elfeky_t-shirt_-_graphics/363 /en/portfolio/elfeky_t-shirt_-_graphics/
+
+Redirect 301 /en/singel_portfolio/Dalia-Kady-Graphics/450 /en/portfolio/Dalia-Kady-Graphics/
+
+Redirect 301 /en/singel_portfolio/Magic-Windows-Graphics/455 /en/portfolio/Magic-Windows-Graphics/
+
+Redirect 301 /en/singel_portfolio/The-House-Graphics/454 /en/portfolio/The-House-Graphics/
+
+Redirect 301 /en/singel_portfolio/Panasonic-Graphics/453 /en/portfolio/Panasonic-Graphics/
+
+Redirect 301 /en/singel_portfolio/_premdion_graphics/355 /en/portfolio/_premdion_graphics/
+
+Redirect 301 /en/singel_portfolio/Fagor-Graphics/451 /en/portfolio/Fagor-Graphics/
+
+Redirect 301 /en/singel_portfolio/A.A.S-Canada-Graphics/449 /en/portfolio/A.A.S-Canada-Graphics/
+
+Redirect 301 /en/singel_portfolio/Restaurant-Effendi/438 /en/portfolio/Restaurant-Effendi/
+
+Redirect 301 /en/singel_portfolio/Gastec-Graphics/448 /en/portfolio/Gastec-Graphics/
+
+Redirect 301 /en/singel_portfolio/NewYou-Medical-Center---Graphics/446 /en/portfolio/NewYou-Medical-Center---Graphics/
+
+Redirect 301 /en/singel_portfolio/Bank-Misr-Graphics/440 /en/portfolio/Bank-Misr-Graphics/
+
+Redirect 301 /en/singel_portfolio/Alef-Library/439 /en/portfolio/Alef-Library/
+
+Redirect 301 /en/singel_portfolio/Dr._Momen_Amer_-_graphic_design/356 /en/portfolio/Dr._Momen_Amer_-_graphic_design/
+
+Redirect 301 /en/singel_portfolio/MEASA_portfolio_catalogue/353 /en/portfolio/MEASA_portfolio_catalogue/
+
+Redirect 301 /en/singel_portfolio/abisayara-social-media-graphics-design/282 /en/portfolio/abisayara-social-media-graphics-design/
+
+Redirect 301 /en/singel_portfolio/Gazelle-Graphics-Design/281 /en/portfolio/Gazelle-Graphics-Design/
+
+Redirect 301 /en/singel_portfolio/_the-kid-village/280 /en/portfolio/_the-kid-village/
+
+Redirect 301 /en/singel_portfolio/Portofolio_of_archtopia_-_graphics/349 /en/portfolio/Portofolio_of_archtopia_-_graphics/
+
+Redirect 301 /en/singel_portfolio/Falcon_contracting_magazine_-_graphics/348 /en/portfolio/Falcon_contracting_magazine_-_graphics/
+
+Redirect 301 /en/singel_portfolio/hat3alem_graphics/347 /en/portfolio/hat3alem_graphics/
+
+Redirect 301 /en/singel_portfolio/el_domiaty_logo_-_graphics/342 /en/portfolio/el_domiaty_logo_-_graphics/
+
+Redirect 301 /en/singel_portfolio/glamorous_Logo_and_graphics/345 /en/portfolio/glamorous_Logo_and_graphics/
+
+Redirect 301 /en/singel_portfolio/Dream_Logo/340 /en/portfolio/Dream_Logo/
+
+Redirect 301 /en/singel_portfolio/_Diet_House_Graphics_Designed_By_Cord_Digital/338 /en/portfolio/_Diet_House_Graphics_Designed_By_Cord_Digital/
+
+Redirect 301 /en/singel_portfolio/Builder_travel_Graphics/335 /en/portfolio/Builder_travel_Graphics/
+
+Redirect 301 /en/singel_portfolio/Second_Home_Logo/321 /en/portfolio/Second_Home_Logo/
+
+Redirect 301 /en/singel_portfolio/Elrehany_Car_care_logo_-_graphics/333 /en/portfolio/Elrehany_Car_care_logo_-_graphics/
+
+Redirect 301 /en/singel_portfolio/Posh_choice_Social_Media_Graphics/327 /en/portfolio/Posh_choice_Social_Media_Graphics/
+
+Redirect 301 /en/singel_portfolio/The_apple_care_social_media_graphics/324 /en/portfolio/The_apple_care_social_media_graphics/
+
+Redirect 301 /en/singel_portfolio/techno_power_graphics/323 /en/portfolio/techno_power_graphics/
+
+Redirect 301 /en/singel_portfolio/skills_bank_graphics/322 /en/portfolio/skills_bank_graphics/
+
+Redirect 301 /en/singel_portfolio/_Mibody_App/419 /en/portfolio/_Mibody_App/
+
+Redirect 301 /en/singel_portfolio/VROOM_Services_App/421 /en/portfolio/VROOM_Services_App/
+
+Redirect 301 /en/singel_portfolio/My_Courses_App/420 /en/portfolio/My_Courses_App/
+
+Redirect 301 /en/singel_portfolio/____newyou-website/256 /en/portfolio/____newyou-website/
+
+Redirect 301 /en/singel_portfolio/____Mar_Decor_Website/253 /en/portfolio/____Mar_Decor_Website/
+
+Redirect 301 /en/singel_portfolio/_Travel_Village_Website/284 /en/portfolio/_Travel_Village_Website/
+
+Redirect 301 /en/singel_portfolio/Website-Abo-elHoul/437 /en/portfolio/Website-Abo-elHoul/
+
+Redirect 301 /en/singel_portfolio/_Techno_Power_UAE-_Website_Developing/373 /en/portfolio/_Techno_Power_UAE-_Website_Developing/
+
+Redirect 301 /en/singel_portfolio/_Website_ELFahd/300 /en/portfolio/_Website_ELFahd/
+
+Redirect 301 /en/singel_portfolio/Managing_Website_AbiSayara/295 /en/portfolio/Managing_Website_AbiSayara/
+
+Redirect 301 /en/singel_portfolio/Misr-public-libraries-fund/488 /en/portfolio/Misr-public-libraries-fund/
+
+Redirect 301 /en/singel_portfolio/Elithad-Landing-Page/487 /en/portfolio/Elithad-Landing-Page/
+
+Redirect 301 /en/singel_portfolio/Big-Deal-Canada---Website-Developing/485 /en/portfolio/Big-Deal-Canada---Website-Developing/
+
+Redirect 301 /en/singel_portfolio/Dreamers-Academy---Website-Developing/484 /en/portfolio/Dreamers-Academy---Website-Developing/
+
+Redirect 301 /en/singel_portfolio/Eltfwaq----Website-Developing/483 /en/portfolio/Eltfwaq----Website-Developing/
+
+Redirect 301 /en/singel_portfolio/newyousa---Landing-Page/445 /en/portfolio/newyousa---Landing-Page/
+
+Redirect 301 /en/singel_portfolio/Magic-Windows---Landing-Page/444 /en/portfolio/Magic-Windows---Landing-Page/
+
+Redirect 301 /en/singel_portfolio/7-sanaya3---Landing-Page/443 /en/portfolio/7-sanaya3---Landing-Page/
+
+Redirect 301 /en/singel_portfolio/The-Global-Hub---Landing-Page/442 /en/portfolio/The-Global-Hub---Landing-Page/
+
+Redirect 301 /en/singel_portfolio/Mar-decor---Landing-Page/441 /en/portfolio/Mar-decor---Landing-Page/
+
+Redirect 301 /en/singel_portfolio/_TechnoPower-group-Landingpage/301 /en/portfolio/_TechnoPower-group-Landingpage/
+
+Redirect 301 /en/singel_portfolio/___Aas_Canada_landing_page/252 /en/portfolio/___Aas_Canada_landing_page/
+
+Redirect 301 /en/singel_portfolio/_Abi_Sayara_SEO/290 /en/portfolio/_Abi_Sayara_SEO/
+
+Redirect 301 /en/singel_portfolio/Basmet-Elriyadh---Seo/486 /en/portfolio/Basmet-Elriyadh---Seo/
+
+Redirect 301 /en/singel_portfolio/New_you_Clinics_SEO/423 /en/portfolio/New_you_Clinics_SEO/
+
+Redirect 301 /en/singel_portfolio/_Abo_elhoul%C2%A0SEO/422 /en/portfolio/_Abo_elhoul%C2%A0SEO/
+
+Redirect 301 /en/singel_portfolio/Techno_power_Group_UAE_-_Arabic_Result/374 /en/portfolio/Techno_power_Group_UAE_-_Arabic_Result/
+
+Redirect 301 /en/singel_portfolio/_Techno_Power_Yemen_Arabic_SEO_Results/330 /en/portfolio/_Techno_Power_Yemen_Arabic_SEO_Results/
+
+Redirect 301 /en/singel_portfolio/Elfahd_Stones_SEO/289 /en/portfolio/Elfahd_Stones_SEO/
+
+Redirect 301 /en/singel_portfolio/_Techno_Power_KSA_English_SEO/311 /en/portfolio/_Techno_Power_KSA_English_SEO/
+
+Redirect 301 /en/singel_portfolio/Techno_Power_Yemen_English_SEO/314 /en/portfolio/Techno_Power_Yemen_English_SEO/
+
+Redirect 301 /en/singel_portfolio/Techno_Power_UAE_-_English_SEO/310 /en/portfolio/Techno_Power_UAE_-_English_SEO/
+
+Redirect 301 /en/singel_portfolio/_noga-tours-seo-services/285 /en/portfolio/_noga-tours-seo-services/
+
+Redirect 301 /en/singel_portfolio/Techno_Power_Qatar_English_SEO/312 /en/portfolio/Techno_Power_Qatar_English_SEO/
+
+Redirect 301 /en/singel_portfolio/DBK_-_Digital_Marketing_SEO/339 /en/portfolio/DBK_-_Digital_Marketing_SEO/
+
+Redirect 301 /en/singel_portfolio/Techno_Power_Qatar_-_Arabic_SEO/329 /en/portfolio/Techno_Power_Qatar_-_Arabic_SEO/
+
+Redirect 301 /en/singel_portfolio/Techno_Power_KSA_-_Arabic_SEO/328 /en/portfolio/Techno_Power_KSA_-_Arabic_SEO/
+
+Redirect 301 /en/singel_portfolio/7-Sanaye-Company---Ad-Word-Campaign/414 /en/portfolio/7-Sanaye-Company---Ad-Word-Campaign/
+
+Redirect 301 /en/singel_portfolio/_Mar_decoration_-PPC/424 /en/portfolio/_Mar_decoration_-PPC/
+
+Redirect 301 /en/singel_portfolio/Ad_Word_Campaign_for_Technopower/417 /en/portfolio/Ad_Word_Campaign_for_Technopower/
+
+Redirect 301 /en/singel_portfolio/__Ad_Word_Campaign_for_Techno_Power/416 /en/portfolio/__Ad_Word_Campaign_for_Techno_Power/
+
+Redirect 301 /en/singel_portfolio/__Magic_window_-_PPC/425 /en/portfolio/__Magic_window_-_PPC/
+
+Redirect 301 /en/singel_portfolio/Misr-Helwan---Social-Media-Marketing/268 /en/portfolio/Misr-Helwan---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/____Management_of_the_InStagram_social_networking_platform_at_NewYou/426 /en/portfolio/____Management_of_the_InStagram_social_networking_platform_at_NewYou/
+
+Redirect 301 /en/singel_portfolio/The-House---Social-Media-Marketing/271 /en/portfolio/The-House---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Dalia-Kady---Social-Media-Marketing/272 /en/portfolio/Dalia-Kady---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/_El_Domiaty_Sweet_--Social-Media-Marketing/319 /en/portfolio/_El_Domiaty_Sweet_--Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Dento-Smart-Dental-Clinics---Social-Media-Marketing/267 /en/portfolio/Dento-Smart-Dental-Clinics---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/___Body_weight_loss__-_Social_Media_Marketing/362 /en/portfolio/___Body_weight_loss__-_Social_Media_Marketing/
+
+Redirect 301 /en/singel_portfolio/Management_of_the_Instagram_social_networking_platform_at_TECHNO-POWER-GROUP/490 /en/portfolio/Management_of_the_Instagram_social_networking_platform_at_TECHNO-POWER-GROUP/
+
+Redirect 301 /en/singel_portfolio/Isage----Social-Media-Marketing/479 /en/portfolio/Isage----Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Skills_Bank_-_Social_Media_Marketing/371 /en/portfolio/Skills_Bank_-_Social_Media_Marketing/
+
+Redirect 301 /en/singel_portfolio/THE_APPLECARE_-_SOCIAL_MEDIA_MARKETING/372 /en/portfolio/THE_APPLECARE_-_SOCIAL_MEDIA_MARKETING/
+
+Redirect 301 /en/singel_portfolio/Bright-Career-Academy---Social-Media-Marketing/368 /en/portfolio/Bright-Career-Academy---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Egypt-Dance-Carnival---Social-Media-Marketing/361 /en/portfolio/Egypt-Dance-Carnival---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Premedion_-_Social_Media_Marketing/357 /en/portfolio/Premedion_-_Social_Media_Marketing/
+
+Redirect 301 /en/singel_portfolio/Gastec---Social-Media-Marketing/436 /en/portfolio/Gastec---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/buildertravel---Social-Media-Marketing/307 /en/portfolio/buildertravel---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/AbiSayara---Social-Media-Marketing/297 /en/portfolio/AbiSayara---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Big-Deal-Canada---Social-Media-Marketing/288 /en/portfolio/Big-Deal-Canada---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/ElHossary---Social-Media-Marketing/286 /en/portfolio/ElHossary---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Magic-Windows---Social-Media-Marketing/266 /en/portfolio/Magic-Windows---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/7Sanaya3---Social-Media-Marketing/265 /en/portfolio/7Sanaya3---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Diet-House---Social-Media-Marketing/318 /en/portfolio/Diet-House---Social-Media-Marketing/
+
+Redirect 301 /en/singel_portfolio/Dr._Moemen_Amer_--Social-Media-Marketing/336 /en/portfolio/Dr._Moemen_Amer_--Social-Media-Marketing/
+
+
+
+
+
+Redirect 301 /ar/singel_post/Best-Web-Design-Company/482 /ar/Best-Web-Design-Company/
+
+Redirect 301 /ar/singel_post/search-engine-optimization/481 /ar/search-engine-optimization/
+
+Redirect 301 /ar/singel_post/Digital-Marketing-Company/480 /ar/Digital-Marketing-Company/
+
+Redirect 301 /ar/singel_post/ازاى-تبنى-روابط-خلفية/177 /ar/ازاى-تبنى-روابط-خلفية/
+
+Redirect 301 /ar/singel_post/كيف-تسوق-المنتجات-الجديدة/194 /ar/كيف-تسوق-المنتجات-الجديدة/
+
+Redirect 301 /ar/singel_post/لماذا-يجب-على-رجال-الاعمال-الاستثمار-فى-السيو/191 /ar/لماذا-يجب-على-رجال-الاعمال-الاستثمار-فى-السيو/
+
+Redirect 301 /ar/singel_post/كيف-تختار-شركة-تصميم-مواقع/197 /ar/كيف-تختار-شركة-تصميم-مواقع/
+
+Redirect 301 /ar/singel_post/the-future-of-digital-marketing-is-personalizatio/200 /ar/the-future-of-digital-marketing-is-personalizatio/
+
+Redirect 301 /ar/singel_post/كيفية-إنشاء-الإعلانات/172 /ar/كيفية-إنشاء-الإعلانات/
+
+Redirect 301 /ar/singel_post/يعنى-ايه-براندينج-او-العلامة-التجارية/189 /ar/يعنى-ايه-براندينج-او-العلامة-التجارية/
+
+Redirect 301 /ar/singel_post/ما-هو-أنواع-التسويق/167 /ar/ما-هو-أنواع-التسويق/
+Redirect 301 /ar/singel_post/يعنى-ايه-المحتوى-التسويقى/165 /ar/يعنى-ايه-المحتوى-التسويقى/
+Redirect 301 /ar/singel_post/نشرة-اخبار-الديجتال-ليوم-11/174 /ar/نشرة-اخبار-الديجتال-ليوم-11/
+Redirect 301 /ar/singel_post/الفرق-بين-الدومين-والهوست/163 /ar/الفرق-بين-الدومين-والهوست/
+Redirect 301 /ar/singel_post/ايه-هو-الفرق-بين-SEO--و-SEM/170 /ar/ايه-هو-الفرق-بين-SEO--و-SEM/
+Redirect 301 /ar/singel_post/تعرف-على-التسويق-الالكترونى-من-البدايه-الى-النهايه/199 /ar/تعرف-على-التسويق-الالكترونى-من-البدايه-الى-النهايه/
+Redirect 301 /ar/singel_post/نشرة-اخبار-الديجتال-ليوم-13/164 /ar/نشرة-اخبار-الديجتال-ليوم-13
+Redirect 301 /ar/singel_post/كيفية-إنشاء-صفحات-التواصل-الاجتماعية/175 /ar/كيفية-إنشاء-صفحات-التواصل-الاجتماعية/
+Redirect 301 /ar/singel_post/اخر-اخبار-الديجتال-ليوم-18/176 /ar/اخر-اخبار-الديجتال-ليوم-18/
+Redirect 301 /ar/singel_post/أزاى-تكون-فريلانسر/173 /ar/أزاى-تكون-فريلانسر/
+Redirect 301 /ar/singel_post/أهمية-استخدام-الأدوات-في-التسويق/169 /ar/أهمية-استخدام-الأدوات-في-التسويق/
+Redirect 301 /ar/singel_post/الفرق-بين-مصمم-جرافيك-ومصمم-ويب/236 /ar/الفرق-بين-مصمم-جرافيك-ومصمم-ويب/
+Redirect 301 /ar/singel_post/افضل-10-ادوات-لتحديد-ترتيب-موقعك-فى-محركات-البحث/153 /ar/افضل-10-ادوات-لتحديد-ترتيب-موقعك-فى-محركات-البحث/
+Redirect 301 /ar/singel_post/ازاى-تبدا-سوشيال-ميديا/180 /ar/ازاى-تبدا-سوشيال-ميديا/
+Redirect 301 /ar/singel_post/5-اخطاء-قاتلة-فى-التسويق-الالكترونى/195 /ar/5-اخطاء-قاتلة-فى-التسويق-الالكترونى/
+Redirect 301 /ar/singel_post/المزيج-التسويقي-سر-نجاح-خطه-التسويق/198 /ar/المزيج-التسويقي-سر-نجاح-خطه-التسويق/
+Redirect 301 /ar/singel_post/نشرة-اخبار-الديجتال-ليوم-20/166 /ar/نشرة-اخبار-الديجتال-ليوم-20/
+Redirect 301 /ar/singel_post/حق-امتياز-الماركات/99 /ar/حق-امتياز-الماركات/
+Redirect 301 /ar/singel_post/افضل-برامج-نقل-الملفات-FTP/129 /ar/افضل-برامج-نقل-الملفات-FTP/
+Redirect 301 /ar/singel_post/مميزات-وعيوب-الفرانشايز/106 /ar/مميزات-وعيوب-الفرانشايز/
+Redirect 301 /ar/singel_post/ماهى-خدمات-التسويق-الإلكتروني-؟/202 /ar/ماهى-خدمات-التسويق-الإلكتروني-؟/
+Redirect 301 /ar/singel_post/تهيئة-محركات-البحث-و-ادارتها/109 /ar/تهيئة-محركات-البحث-و-ادارتها/
+Redirect 301 /ar/singel_post/تسويق-المحتوى/111 /ar/تسويق-المحتوى/
+Redirect 301 /ar/singel_post/top-marketing-tips/138 /ar/top-marketing-tips/
+Redirect 301 /ar/singel_post/ما-هو-نظام-إدارة-المحتوى/130 /ar/ما-هو-نظام-إدارة-المحتوى/
+Redirect 301 /ar/singel_post/اهم-الاسباب-لاختيارك-شركة-كورد-ديجيتال/100 /ar/اهم-الاسباب-لاختيارك-شركة-كورد-ديجيتال/
+Redirect 301 /ar/singel_post/إزاي-نقدر-نطور-الصناعة-في-بلدنا/112 /ar/إزاي-نقدر-نطور-الصناعة-في-بلدنا/
+Redirect 301 /ar/singel_post/العائد-من-الحملات-الاعلانية-عبر-الانترنت/110 /ar/العائد-من-الحملات-الاعلانية-عبر-الانترنت/
+Redirect 301 /ar/singel_post/التقييم-و-المفاضلة-في-خطة-العمل---للشركات-اجديدة/102 /ar/التقييم-و-المفاضلة-في-خطة-العمل---للشركات-اجديدة/
+Redirect 301 /ar/singel_post/اسرار-زيادة-الربح-عن-طريق-التصنيع-الخارجي/113 /ar/اسرار-زيادة-الربح-عن-طريق-التصنيع-الخارجي/
+Redirect 301 /ar/singel_post/لنتائج-الاولى-في-جوجل-اول-طلبات-العميل-بعد-تصميم-موقعه/114 /ar/لنتائج-الاولى-في-جوجل-اول-طلبات-العميل-بعد-تصميم-موقعه/
+Redirect 301 /ar/singel_post/استخدام-جوجل-بلس-لتحسيم-من-مرتبة-موقعك-في-محركات-البحث/115 /ar/استخدام-جوجل-بلس-لتحسيم-من-مرتبة-موقعك-في-محركات-البحث/
+Redirect 301 /ar/singel_post/اهمية-المواقع-الالكترونية/119 /ar/اهمية-المواقع-الالكترونية/
+Redirect 301 /ar/singel_post/الاستعانة--بمصادر-خارجية-للتصنيع/117 /ar/الاستعانة--بمصادر-خارجية-للتصنيع/
+Redirect 301 /ar/singel_post/need-to-outsource/116 /ar/need-to-outsource/
+Redirect 301 /ar/singel_post/الحملات-الاعلانية-على-موقع--تويتر/122 /ar/الحملات-الاعلانية-على-موقع--تويتر/
+Redirect 301 /ar/singel_post/الحملات-الاعلانية-على-الفيس-بوك/121 /ar/الحملات-الاعلانية-على-الفيس-بوك/
+Redirect 301 /ar/singel_post/اهمية-التسويق-لنجاح-المشاريع-التجارية/120 /ar/اهمية-التسويق-لنجاح-المشاريع-التجارية/
+Redirect 301 /ar/singel_post/خدمات-التسويق-الالكترونى-كما-يفضلها-العملاء/125 /ar/خدمات-التسويق-الالكترونى-كما-يفضلها-العملاء/
+Redirect 301 /ar/singel_post/كيفية-اختيار-كلمات-مفتاحية-ذات-كثافة-بحث-عالية/124 /ar/كيفية-اختيار-كلمات-مفتاحية-ذات-كثافة-بحث-عالية/
+Redirect 301 /ar/singel_post/تطوير-هوية-العلامة-التجارية/123 /ar/تطوير-هوية-العلامة-التجارية/
+Redirect 301 /ar/singel_post/the-importance-strategic-integration-marketing-scm/126 /ar/the-importance-strategic-integration-marketing-scm/
+Redirect 301 /ar/singel_post/economies-of-scale-scope-marketing-scm-strategic/127 /ar/economies-of-scale-scope-marketing-scm-strategic/
+Redirect 301 /ar/singel_post/new-services-from-facebook/128 /ar/new-services-from-facebook/
+Redirect 301 /ar/singel_post/e-commerce-seo-strategic-redesign-web-shops/133 /ar/e-commerce-seo-strategic-redesign-web-shops/
+Redirect 301 /ar/singel_post/mobile-marketing-amplification-content/132 /ar/mobile-marketing-amplification-content/
+Redirect 301 /ar/singel_post/10-عوامل-يمكن-ان-تؤثر-على-حجم-العملاء-الطبيعين-لموقعك/131 /ar/10-عوامل-يمكن-ان-تؤثر-على-حجم-العملاء-الطبيعين-لموقعك/
+Redirect 301 /ar/singel_post/https-setup-causing-seo-issues/136 /ar/https-setup-causing-seo-issues/
+Redirect 301 /ar/singel_post/google-brings-rich-results-filter-to-search-analytics/134 /ar/google-brings-rich-results-filter-to-search-analytics/
+Redirect 301 /ar/singel_post/bing-testing-twitter-results-search-results/135 /ar/bing-testing-twitter-results-search-results/
+Redirect 301 /ar/singel_post/https-setup-causing-seo-issues/136 /ar/https-setup-causing-seo-issues/
+Redirect 301 /ar/singel_post/top-webdesign-topics/140 /ar/top-webdesign-topics/
+Redirect 301 /ar/singel_post/social-media-marketing-tips/139 /ar/social-media-marketing-tips/
+Redirect 301 /ar/singel_post/common-seo-mistakes-content-marketers/137 /ar/common-seo-mistakes-content-marketers/
+Redirect 301 /ar/singel_post/المدونة-جزء-لا-يتجزأ-من-التسويق/143 /ar/المدونة-جزء-لا-يتجزأ-من-التسويق/
+Redirect 301 /ar/singel_post/ازاى-اكون-مصمم-ويب/142 /ar/ازاى-اكون-مصمم-ويب/
+Redirect 301 /ar/singel_post/25-نصيحة-لتطوير-مواقع-الويب-تعزيز-مهاراتك/141 /ar/25-نصيحة-لتطوير-مواقع-الويب-تعزيز-مهاراتك/
+Redirect 301 /ar/singel_post/أهم-وأحدث-5-تحديات-لتهيئة-موقعك-لمحركات-البحث/146 /ar/أهم-وأحدث-5-تحديات-لتهيئة-موقعك-لمحركات-البحث/
+Redirect 301 /ar/singel_post/أهمية-اشهار-المواقع-وتهيئة-المواقع-لمحركات-البحث/145 /ar/أهمية-اشهار-المواقع-وتهيئة-المواقع-لمحركات-البحث/
+Redirect 301 /ar/singel_post/كيف-تستخدم-الهاشتاج-لأعلى-فاعلية-فى-التسويق/144 /ar/كيف-تستخدم-الهاشتاج-لأعلى-فاعلية-فى-التسويق/
+Redirect 301 /ar/singel_post/افضل-ادوات-مساعدة-فى-السوشيال-ميديا/147 /ar/افضل-ادوات-مساعدة-فى-السوشيال-ميديا/
+Redirect 301 /ar/singel_post/إزاي-تبدأ-في-مجال-السوشيال-ميديا-في-9-خطوات/148 /ar/إزاي-تبدأ-في-مجال-السوشيال-ميديا-في-9-خطوات/
+Redirect 301 /ar/singel_post/تعريف-الفرق-بين-الخرائط-والتدفقات-التسويقية/149 /ar/تعريف-الفرق-بين-الخرائط-والتدفقات-التسويقية/
+Redirect 301 /ar/singel_post/اهم-الاختلافات-بين-التسويق-لمنتج-والتسويق-للخدمات/150 /ar/اهم-الاختلافات-بين-التسويق-لمنتج-والتسويق-للخدمات/
+Redirect 301 /ar/singel_post/ايه-الفرق-بين-التسويق-الالكترونى-و-التسويق-التقليدى/151 /ar/ايه-الفرق-بين-التسويق-الالكترونى-و-التسويق-التقليدى/
+Redirect 301 /ar/singel_post/ايه-هو-أهمية-التسويق-الالكترونى-بالنسبه-للشركات/152 /ar/ايه-هو-أهمية-التسويق-الالكترونى-بالنسبه-للشركات/
+Redirect 301 /ar/singel_post/ازاى-تتابع-اخر-اخبار-الديجتال-ماركتينج/154 /ar/ازاى-تتابع-اخر-اخبار-الديجتال-ماركتينج/
+Redirect 301 /ar/singel_post/7-خطوات-فعالة-لعمل-تسويق-الكترونى-ناجح/155 /ar/7-خطوات-فعالة-لعمل-تسويق-الكترونى-ناجح/
+Redirect 301 /ar/singel_post/النشرة-الاخبارية-الاسبوعية/157 /ar/النشرة-الاخبارية-الاسبوعية/
+Redirect 301 /ar/singel_post/ازاى-تحلل-وسائل-التواصل-الاجتماعى/158 /ar/ازاى-تحلل-وسائل-التواصل-الاجتماعى/
+Redirect 301 /ar/singel_post/نشره-اخبار-الديجيتال/159 /ar/نشره-اخبار-الديجيتال/ 
+Redirect 301 /ar/singel_post/العقبات-التي-تواجه-التسويق-الالكترونى/160 /ar/العقبات-التي-تواجه-التسويق-الالكترونى/ 
+Redirect 301 /ar/singel_post/اخر-اخبار-الديجتال-ليوم-27/168 /ar/اخر-اخبار-الديجتال-ليوم-27/
+Redirect 301 /ar/singel_post/ابرز-مزايا-و-عيوب-وورد-بريس/162 /ar/ابرز-مزايا-و-عيوب-وورد-بريس/ 
+Redirect 301 /ar/singel_post/نشرة-اخبار-الديجتال-ليوم-6/161 /ar/نشرة-اخبار-الديجتال-ليوم-6/
+Redirect 301 /ar/singel_post/كيفية-عمل-شراكة-في-جميع-أنحاء-العالم/179 /ar/كيفية-عمل-شراكة-في-جميع-أنحاء-العالم/
+Redirect 301 /ar/singel_post/اخر-اخبار-الديجتال-ليوم-25-مايو-2017/178 /ar/اخر-اخبار-الديجتال-ليوم-25-مايو-2017/
+Redirect 301 /ar/singel_post/نشرة-اخبار-الديجتال-ليوم-4/171 /ar/نشرة-اخبار-الديجتال-ليوم-4/
+Redirect 301 /ar/singel_post/ما--الذى--يحتاجه-العميل-فى--تطبيقات-التجارة-الالكترونية/183 /ar/ما--الذى--يحتاجه-العميل-فى--تطبيقات-التجارة-الالكترونية/
+Redirect 301 /ar/singel_post/ما-هو-معنى-حق-الامتياز-او-حق-استخدام-العلامة-التجارية/182 /ar/ما-هو-معنى-حق-الامتياز-او-حق-استخدام-العلامة-التجارية/
+Redirect 301 /ar/singel_post/اخر-اخبار-الديجتال-ليوم-1-يونيو-2017/181 /ar/اخر-اخبار-الديجتال-ليوم-1-يونيو-2017/
+Redirect 301 /ar/singel_post/كيف-تكون-مطور-مواقع-او-ويب-ديفلوبر/185 /ar/كيف-تكون-مطور-مواقع-او-ويب-ديفلوبر/
+Redirect 301 /ar/singel_post/الروابط-الخلفية-او-الباك-لينك-الخاصه-بموقعك/184 /ar/الروابط-الخلفية-او-الباك-لينك-الخاصه-بموقعك/
+Redirect 301 /ar/singel_post/SEO-services/493 /ar/SEO-services/
+Redirect 301 /ar/singel_post/اهم-التوقعات-المستقبلية-للسيو/190 /ar/اهم-التوقعات-المستقبلية-للسيو/
+Redirect 301 /ar/singel_post/أفضل-10-مواقع-للحصول-على-صور-إبداعية/187 /ar/أفضل-10-مواقع-للحصول-على-صور-إبداعية/
+Redirect 301 /ar/singel_post/اخر-اخبار-الديجتال-ليوم-15-يونيو-2017/186 /ar/اخر-اخبار-الديجتال-ليوم-15-يونيو-2017/
+Redirect 301 /ar/singel_post/ماهى-استراتيجية-التسعير-لمنتجاتك-او-خدماتك/201 /ar/ماهى-استراتيجية-التسعير-لمنتجاتك-او-خدماتك/
+Redirect 301 /ar/singel_post/the-evolution-and-development-of-digital-marketing/196 /ar/the-evolution-and-development-of-digital-marketing/
+Redirect 301 /ar/singel_post/اهم-5-عوامل-للوصول-للصفحة-الاولى-فى-جوجل/193 /ar/اهم-5-عوامل-للوصول-للصفحة-الاولى-فى-جوجل/
+Redirect 301 /ar/all_services/خدمات-التسويق-الالكتروني/30 /ar/all_services/خدمات-التسويق-الالكتروني/
+Redirect 301 /ar/singel_services/التسويق-عبر-صفحات-التواصل-الاجتماعى/203 /ar/services/التسويق-عبر-صفحات-التواصل-الاجتماعى/
+Redirect 301 /ar/singel_services/-اعلانات-الضغط-حسب-النقرة/204 /ar/services/-اعلانات-الضغط-حسب-النقرة/
+Redirect 301 /ar/singel_services/تهيئة-محركات-البحث/205 /ar/services/تهيئة-محركات-البحث/
+Redirect 301 /ar/singel_services/تحسين-معدل-التحويل/211 /ar/services/تحسين-معدل-التحويل/
+Redirect 301 /ar/singel_services/تسويق-المحتوي/212 /ar/services/تسويق-المحتوي/
+Redirect 301 /ar/all_services/برمجة-المواقع-وتطبيقات-الهاتف/31 /ar/all_services/برمجة-المواقع-وتطبيقات-الهاتف/
+Redirect 301 /ar/singel_services/تطوير-مواقع-الكترونية/214 /ar/services/تطوير-مواقع-الكترونية/
+Redirect 301 /ar/singel_services/تصميم-موقع-الكترونى/213 /ar/services/تصميم-موقع-الكترونى/
+Redirect 301 /ar/singel_services/تطبيقات-الهواتف-الذكية/215 /ar/services/تطبيقات-الهواتف-الذكية/
+Redirect 301 /ar/all_services/خدمات-التصاميم-والتصوير-الفوتوغرافي/33 /ar/all_services/خدمات-التصاميم-والتصوير-الفوتوغرافي/
+Redirect 301 /ar/singel_services/تصميمات-الجرافيك/216 /ar/services/تصميمات-الجرافيك/
+Redirect 301 /ar/singel_services/التصوير-الفوتوغرافي/217 /ar/services/التصوير-الفوتوغرافي/
+Redirect 301 /ar/all_services/خدمات-الفيديو/32 /ar/all_services/خدمات-الفيديو/
+Redirect 301 /ar/singel_services/مقاطع_الفيديو_المتحركة/395 /ar/services/مقاطع_الفيديو_المتحركة/
+Redirect 301 /ar/singel_services/فيديو_الرسوم_المتحركة/393 /ar/services/فيديو_الرسوم_المتحركة/
+Redirect 301 /ar/singel_services/المؤثرات_البصرية:/394 /ar/services/المؤثرات_البصرية:/
+Redirect 301 /ar/all_services/%C2%A0حق-الامتياز-التجاري/49 /ar/all_services/%C2%A0حق-الامتياز-التجاري/
+Redirect 301 /ar/singel_services/حق_الامتياز_و_التعاقد_الخارجي/382 /ar/services/حق_الامتياز_و_التعاقد_الخارجي/
+Redirect 301 /ar/singel_services/التعاقد_الخارجي/250 /ar/services/التعاقد_الخارجي/
+Redirect 301 /ar/all_methodology/منهجية/34 /ar/all_methodology/منهجية/
+Redirect 301 /ar/all_packages/الانظمه/35 /ar/all_packages/الانظمه/
+Redirect 301 /ar/singel_packages/أنظمة-التسويق-عبر-مواقع-التواصل-الاجتماعي/48 /ar/packages/أنظمة-التسويق-عبر-مواقع-التواصل-الاجتماعي/
+Redirect 301 /ar/singel_packages/أنظمة-اعلانات-الضغط-حسب-النقرة/51 /ar/packages/أنظمة-اعلانات-الضغط-حسب-النقرة/
+Redirect 301 /ar/singel_packages/أنظمة-تحسين-محركات-البحث/37 /ar/packages/أنظمة-تحسين-محركات-البحث/
+Redirect 301 /ar/singel_packages/انظمة-تصميم-موقع-الكتروني/38 /ar/packages/انظمة-تصميم-موقع-الكتروني/
+Redirect 301 /ar/singel_packages/انظمة-تطبيقات-الهاتف/41 /ar/packages/انظمة-تطبيقات-الهاتف/
+Redirect 301 /ar/singel_packages/Graphics-&-Photography--انظمه/40 /ar/packages/Graphics-&-Photography--انظمه/
+Redirect 301 /ar/singel_packages/أنظمة-تصميم-الفيديو/39 /ar/packages/أنظمة-تصميم-الفيديو/
+Redirect 301 /ar/singel_post/Story-Of-Success-CORD-DIGITAL/496 /ar/Story-Of-Success-CORD-DIGITAL/
+Redirect 301 /ar/singel_post/CORD-Digital-Employees-Celebrate-The-Muslim-Holy-month/495 /ar/CORD-Digital-Employees-Celebrate-The-Muslim-Holy-month/
+Redirect 301 /ar/singel_post/CORD-Digital-Celebrates-Halloween/494 /ar/CORD-Digital-Celebrates-Halloween/
+Redirect 301 /ar/singel_post/رحلة_لإيطاليا_مع_صاحب_شركة_الدبيكي_للصناعات_الدوائية/380 /ar/رحلة_لإيطاليا_مع_صاحب_شركة_الدبيكي_للصناعات_الدوائية/
+Redirect 301 /ar/singel_post/CORD-Digital-Startup-Announces-its-Launch/498 /ar/CORD-Digital-Startup-Announces-its-Launch/
+Redirect 301 /ar/singel_post/CORD-Digital-officially-opens-a-New-location/497 /ar/CORD-Digital-officially-opens-a-New-location/
+Redirect 301 /ar/all_portfolio/سابقة-الاعمال/42 /ar/all_portfolio/سابقة-الاعمال/
+Redirect 301 /ar/singel_portfolio/شركة-الدبيكي-للصناعات-الدوائية/457 /ar/portfolio/شركة-الدبيكي-للصناعات-الدوائية/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_فيديو_تسويقي_-_ُEL_MASHROO3/341 /ar/portfolio/تقديم_خدمة_فيديو_تسويقي_-_ُEL_MASHROO3/
+Redirect 301 /ar/singel_portfolio/Abisyara/274 /ar/portfolio/Abisyara/
+Redirect 301 /ar/singel_portfolio/فيديو_The_House/260 /ar/portfolio/فيديو_The_House/
+Redirect 301 /ar/singel_portfolio/Eltafwak---تقديم-خدمة-فيديو-تسويقي/475 /ar/portfolio/Eltafwak---تقديم-خدمة-فيديو-تسويقي/
+Redirect 301 /ar/singel_portfolio/تصميم_فيديو_تسويقي_لشركة_-_El_wessam_group/367 /ar/portfolio/تصميم_فيديو_تسويقي_لشركة_-_El_wessam_group/
+Redirect 301 /ar/singel_portfolio/مصر_حلوان_-__تقديم_خدمة_فيديو_تسويقي/428 /ar/portfolio/مصر_حلوان_-__تقديم_خدمة_فيديو_تسويقي/
+Redirect 301 /ar/singel_portfolio/تدريب_لفريق_العمل_لشركة_-Change_international/359 /ar/portfolio/تدريب_لفريق_العمل_لشركة_-Change_international/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_فيديو_تسويقي_-_Premdion/358 /ar/portfolio/تقديم_خدمة_فيديو_تسويقي_-_Premdion/
+Redirect 301 /ar/singel_portfolio/El-Talah-Garden-تقديم-خدمة-فيديو-تسويقي/456 /ar/portfolio/El-Talah-Garden-تقديم-خدمة-فيديو-تسويقي/
+Redirect 301 /ar/singel_portfolio/فيديو_عيد_الام_لشركة_بانسونيك/251 /ar/portfolio/فيديو_عيد_الام_لشركة_بانسونيك/
+Redirect 301 /ar/singel_portfolio/ftrina-video/308 /ar/portfolio/ftrina-video/
+Redirect 301 /ar/singel_portfolio/eldomiaty-video-cord-digital/309 /ar/portfolio/eldomiaty-video-cord-digital/
+Redirect 301 /ar/singel_portfolio/فيديو_جرافيك_لـ_دايت_هاوس/305 /ar/portfolio/فيديو_جرافيك_لـ_دايت_هاوس/
+Redirect 301 /ar/singel_portfolio/موشن_جرافيك_لموقع_فاجور/263 /ar/portfolio/موشن_جرافيك_لموقع_فاجور/
+Redirect 301 /ar/singel_portfolio/موشن_جرافيك_لموقع_نيويو/262 /ar/portfolio/موشن_جرافيك_لموقع_نيويو/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_فيديو_تسويقي_-_Nile_Line_Company/346 /ar/portfolio/تقديم_خدمة_فيديو_تسويقي_-_Nile_Line_Company/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_فيديو_تسويقي_-_B-REAL_ESTATE/343 /ar/portfolio/تقديم_خدمة_فيديو_تسويقي_-_B-REAL_ESTATE/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_فيديو_تسويقي_-_bid_zone/344 /ar/portfolio/تقديم_خدمة_فيديو_تسويقي_-_bid_zone/
+Redirect 301 /ar/singel_portfolio/تصميم_لوجو_شركة_-_elfeky_t-shirt/363 /ar/portfolio/تصميم_لوجو_شركة_-_elfeky_t-shirt/
+Redirect 301 /ar/singel_portfolio/El-Tafwok---تصاميم-الجرافيكس/478 /ar/portfolio/El-Tafwok---تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/Basmet-Elriyadh---تصاميم-الجرافيكس/477 /ar/portfolio/Basmet-Elriyadh---تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/Nerd-تصاميم-الجرافيكس/452 /ar/portfolio/Nerd-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/Magic-Windows-تصاميم-الجرافيكس/455 /ar/portfolio/Magic-Windows-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/Dalia-Kady-تصاميم-الجرافيكس/450 /ar/portfolio/Dalia-Kady-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/The-House-تصاميم-الجرافيكس/454 /ar/portfolio/The-House-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/Panasonic-تصاميم-الجرافيكس/453 /ar/portfolio/Panasonic-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/Fagor-تصاميم-الجرافيكس/451 /ar/portfolio/Fagor-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/premdion_تصميمات_جرافيك/355 /ar/portfolio/premdion_تصميمات_جرافيك/
+Redirect 301 /ar/singel_portfolio/A.A.S-Canada-تصاميم-الجرافيكس/449 /ar/portfolio/A.A.S-Canada-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/مطعم-افندي/438 /ar/portfolio/مطعم-افندي/
+Redirect 301 /ar/singel_portfolio/تصميمات-الجرافيك-لمركز-نيو-يو-الطبي/446 /ar/portfolio/تصميمات-الجرافيك-لمركز-نيو-يو-الطبي/
+Redirect 301 /ar/singel_portfolio/شركة-غاز-تك-تصاميم-الجرافيكس/448 /ar/portfolio/شركة-غاز-تك-تصاميم-الجرافيكس/
+Redirect 301 /ar/singel_portfolio/بنك-مصر/440 /ar/portfolio/بنك-مصر/
+Redirect 301 /ar/singel_portfolio/مكتبة-أ/439 /ar/portfolio/مكتبة-أ/
+Redirect 301 /ar/singel_portfolio/تصميم_كتالوج_لشركة_-_MEASA/353 /ar/portfolio/تصميم_كتالوج_لشركة_-_MEASA/
+Redirect 301 /ar/singel_portfolio/تصميم_لوجو_عيادة_-_Dr._Momen_Amer/356 /ar/portfolio/تصميم_لوجو_عيادة_-_Dr._Momen_Amer/
+Redirect 301 /ar/singel_portfolio/تصميمات-السوشيال-ميديا-لـ-آبي-سيارة/282 /ar/portfolio/تصميمات-السوشيال-ميديا-لـ-آبي-سيارة/
+Redirect 301 /ar/singel_portfolio/تصميمات-جرافيك-لجازيلا/281 /ar/portfolio/تصميمات-جرافيك-لجازيلا/
+Redirect 301 /ar/singel_portfolio/تصميم_لوجو_لشركة_-_Portofolio_of_archtopia/349 /ar/portfolio/تصميم_لوجو_لشركة_-_Portofolio_of_archtopia/
+Redirect 301 /ar/singel_portfolio/ذا_كيددز_فالدج/280 /ar/portfolio/ذا_كيددز_فالدج/
+Redirect 301 /ar/singel_portfolio/تصميم_لوجو_لشركة_-_Falcon_contracting_magazine/348 /ar/portfolio/تصميم_لوجو_لشركة_-_Falcon_contracting_magazine/
+Redirect 301 /ar/singel_portfolio/hat3alem_تصميمات_جرافيك_لــ/347 /ar/portfolio/hat3alem_تصميمات_جرافيك_لــ/
+Redirect 301 /ar/singel_portfolio/el_domiaty_تصميم_لوجو/342 /ar/portfolio/el_domiaty_تصميم_لوجو/
+Redirect 301 /ar/singel_portfolio/Dream_Logo/340 /ar/portfolio/Dream_Logo/
+Redirect 301 /ar/singel_portfolio/Diet_House_Graphicsتصميمات_الجرافيك_لشركه%C2%A0/338 /ar/portfolio/Diet_House_Graphicsتصميمات_الجرافيك_لشركه%C2%A0/
+Redirect 301 /ar/singel_portfolio/تصميم_صور_من_الجرافيك_من_فريق_عمل_كورد_ديجتال%C2%A0/335 /ar/portfolio/تصميم_صور_من_الجرافيك_من_فريق_عمل_كورد_ديجتال%C2%A0/
+Redirect 301 /ar/singel_portfolio/Second_Homeتصميم_لوجو_شركة/321 /ar/portfolio/Second_Homeتصميم_لوجو_شركة/
+Redirect 301 /ar/singel_portfolio/تصميم_لوجو_شركة_elrehany_car_care/333 /ar/portfolio/تصميم_لوجو_شركة_elrehany_car_care/
+Redirect 301 /ar/singel_portfolio/Posh_choiceالجرافيك_على_مواقع_التواصل_الاجتماعي_لشركة/327 /ar/portfolio/Posh_choiceالجرافيك_على_مواقع_التواصل_الاجتماعي_لشركة/
+Redirect 301 /ar/singel_portfolio/نتصميم_صور_خاصة_لشركة_تكنو_باور/323 /ar/portfolio/نتصميم_صور_خاصة_لشركة_تكنو_باور/
+Redirect 301 /ar/singel_portfolio/تصميمات_الصور_لصفحة_أبل_كير/324 /ar/portfolio/تصميمات_الصور_لصفحة_أبل_كير/
+Redirect 301 /ar/singel_portfolio/skills_bankتصميم_صور_لــ/322 /ar/portfolio/skills_bankتصميم_صور_لــ/
+Redirect 301 /ar/singel_portfolio/تطبيق_Mibody/419 /ar/portfolio/تطبيق_Mibody/
+Redirect 301 /ar/singel_portfolio/VROOM_Services_تطبيق/421 /ar/portfolio/VROOM_Services_تطبيق/ 
+Redirect 301 /ar/singel_portfolio/تطبيق_My_Courses/420 /ar/portfolio/تطبيق_My_Courses/
+Redirect 301 /ar/singel_portfolio/مركز-نيو-يو-الطبي---تصميم-موقع-الكتروني/256 /ar/portfolio/مركز-نيو-يو-الطبي---تصميم-موقع-الكتروني/
+Redirect 301 /ar/singel_portfolio/موقع_مار_ديكور/253 /ar/portfolio/موقع_مار_ديكور/
+Redirect 301 /ar/singel_portfolio/تصميم_وتطوير_موقع_ترافيل_فالدج/284 /ar/portfolio/تصميم_وتطوير_موقع_ترافيل_فالدج/ 
+Redirect 301 /ar/singel_portfolio/تصميم_موقع_الكتروني_شركة_الفهد%C2%A0/300 /ar/portfolio/تصميم_موقع_الكتروني_شركة_الفهد%C2%A0/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمات_المواقع_الالكترونية_-_Techno_Power_UAE/373 /ar/portfolio/تقديم_خدمات_المواقع_الالكترونية_-_Techno_Power_UAE/
+Redirect 301 /ar/singel_portfolio/إدارة_الموقع_الالكترونى_لشركة_آبي_سيارة/295 /ar/portfolio/إدارة_الموقع_الالكترونى_لشركة_آبي_سيارة/
+Redirect 301 /ar/singel_portfolio/صندوق-مكتبات-مصر-العامة/488 /ar/portfolio/صندوق-مكتبات-مصر-العامة/
+Redirect 301 /ar/singel_portfolio/شركة-بيج-ديل-كندا---تصميم-موقع-الكتروني/485 /ar/portfolio/شركة-بيج-ديل-كندا---تصميم-موقع-الكتروني/
+Redirect 301 /ar/singel_portfolio/شركة-الاتحاد-صفحة-هبوط/487 /ar/portfolio/شركة-الاتحاد-صفحة-هبوط/
+Redirect 301 /ar/singel_portfolio/اكاديمية-دريمرز----تصميم-موقع-الكتروني/484 /ar/portfolio/اكاديمية-دريمرز----تصميم-موقع-الكتروني/
+Redirect 301 /ar/singel_portfolio/التفوق---تصميم-موقع-الكتروني/483 /ar/portfolio/التفوق---تصميم-موقع-الكتروني/
+Redirect 301 /ar/singel_portfolio/ماجيك-ويندوز---Landing-Page/444 /ar/portfolio/ماجيك-ويندوز---Landing-Page/
+Redirect 301 /ar/singel_portfolio/مركز-نيو-يو-الطبي---Landing-Page/445 /ar/portfolio/مركز-نيو-يو-الطبي---Landing-Page/
+Redirect 301 /ar/singel_portfolio/7-صنايع---Landing-Page/443 /ar/portfolio/7-صنايع---Landing-Page/
+Redirect 301 /ar/singel_portfolio/شركة-جلوبال-هوب---Landing-Page/442 /ar/portfolio/شركة-جلوبال-هوب---Landing-Page/
+Redirect 301 /ar/singel_portfolio/صفحة_هبوط_اعلانات_لموقع_تكنو_باور_جروب/301 /ar/portfolio/صفحة_هبوط_اعلانات_لموقع_تكنو_باور_جروب/
+Redirect 301 /ar/singel_portfolio/شركة-مار-ديكور---Landing-Page/441 /ar/portfolio/شركة-مار-ديكور---Landing-Page/
+Redirect 301 /ar/singel_portfolio/شركة_آس_كندا%C2%A0_landing_page/252 /ar/portfolio/شركة_آس_كندا%C2%A0_landing_page/
+Redirect 301 /ar/singel_portfolio/ابي_سيارة/290 /ar/portfolio/ابي_سيارة/
+Redirect 301 /ar/singel_portfolio/شركة-بسمة-الرياض----تحسين-محركات-البحث/486 /ar/portfolio/شركة-بسمة-الرياض----تحسين-محركات-البحث/
+Redirect 301 /ar/singel_portfolio/%C2%A0تحسين_الموقع_الالكتروني_لشركة_ابو_الهول/422 /ar/portfolio/%C2%A0تحسين_الموقع_الالكتروني_لشركة_ابو_الهول/
+Redirect 301 /ar/singel_portfolio/%C2%A0تحسين_الموقع_الالكتروني_لعيادات_نيو_يو_الطبيه/423 /ar/portfolio/%C2%A0تحسين_الموقع_الالكتروني_لعيادات_نيو_يو_الطبيه/
+Redirect 301 /ar/singel_portfolio/تحسين_الموقع_الالكتروني_لشركة_تكنو_باور_في_اليمن/330 /ar/portfolio/تحسين_الموقع_الالكتروني_لشركة_تكنو_باور_في_اليمن/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمات_SEO_لشركة_-_Techno_power_Group_UAE/374 /ar/portfolio/تقديم_خدمات_SEO_لشركة_-_Techno_power_Group_UAE/
+Redirect 301 /ar/singel_portfolio/تحسين_موقع_الفهد_ستونز/289 /ar/portfolio/تحسين_موقع_الفهد_ستونز/
+Redirect 301 /ar/singel_portfolio/تحسين_محركات_البحث%C2%A0لموقع_شركه_تكنو_باور_في_السعودية/311 /ar/portfolio/تحسين_محركات_البحث%C2%A0لموقع_شركه_تكنو_باور_في_السعودية/
+Redirect 301 /ar/singel_portfolio/تحسين_محركات_البحث%C2%A0لموقع_شركه_تكنو_باور_في_دوله_اليمن/314 /ar/portfolio/تحسين_محركات_البحث%C2%A0لموقع_شركه_تكنو_باور_في_دوله_اليمن/
+Redirect 301 /ar/singel_portfolio/تحسين_محركات_البحث%C2%A0لموقع_شركه_تكنو_باور/310 /ar/portfolio/تحسين_محركات_البحث%C2%A0لموقع_شركه_تكنو_باور/
+Redirect 301 /ar/singel_portfolio/noga-tours-seo-services/285 /ar/portfolio/noga-tours-seo-services/
+Redirect 301 /ar/singel_portfolio/محركات_البحث%C2%A0لموقع_شركه_تكنو_باور_في_دوله_قطر/312 /ar/portfolio/محركات_البحث%C2%A0لموقع_شركه_تكنو_باور_في_دوله_قطر/
+Redirect 301 /ar/singel_portfolio/تحسين_الموقع_الالكتروني_لشركة_تكنوباور_في_قطر/329 /ar/portfolio/تحسين_الموقع_الالكتروني_لشركة_تكنوباور_في_قطر/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_Seo_-_DBK/339 /ar/portfolio/تقديم_خدمة_Seo_-_DBK/
+Redirect 301 /ar/singel_portfolio/تحسين_محركات_البحث_لشركة_تكنو_باور_في_السعودية_باللغه_العربية/328 /ar/portfolio/تحسين_محركات_البحث_لشركة_تكنو_باور_في_السعودية_باللغه_العربية/
+Redirect 301 /ar/singel_portfolio/اعلانات_جوجل_لشركة_7_صنايع/414 /ar/portfolio/اعلانات_جوجل_لشركة_7_صنايع/
+Redirect 301 /ar/singel_portfolio/حملات_جوجل_الاعلانيه_لشركة_مار_للديكورات/424 /ar/portfolio/حملات_جوجل_الاعلانيه_لشركة_مار_للديكورات/
+Redirect 301 /ar/singel_portfolio/اعلانات_جوجل_لشركة_تكنوباور/416 /ar/portfolio/اعلانات_جوجل_لشركة_تكنوباور/
+Redirect 301 /ar/singel_portfolio/اعلانات_جوجل_لشركة_تكنوباور_للمولدات/417 /ar/portfolio/اعلانات_جوجل_لشركة_تكنوباور_للمولدات/
+Redirect 301 /ar/singel_portfolio/حملات_جوجل_الاعلانية_لشركة_ماجيك/425 /ar/portfolio/حملات_جوجل_الاعلانية_لشركة_ماجيك/
+Redirect 301 /ar/singel_portfolio/سوشيال_ميديا_لموقع_The_House/271 /ar/portfolio/سوشيال_ميديا_لموقع_The_House/
+Redirect 301 /ar/singel_portfolio/سوشيال_ميديا_لموقع_مصر_حلوان/268 /ar/portfolio/سوشيال_ميديا_لموقع_مصر_حلوان/
+Redirect 301 /ar/singel_portfolio/%C2%A0إدارة_منصة_التواصل_الاجتماعي_انستجرام_لعيادات_مركز_نيويو_الطبي/426 /ar/portfolio/%C2%A0إدارة_منصة_التواصل_الاجتماعي_انستجرام_لعيادات_مركز_نيويو_الطبي/
+Redirect 301 /ar/singel_portfolio/سوشيال_ميديا_لموقع_داليا_القاضي/272 /ar/portfolio/سوشيال_ميديا_لموقع_داليا_القاضي/
+Redirect 301 /ar/singel_portfolio/مركز_دنتو_سمارت_لتجميل_الاسنان/267 /ar/portfolio/مركز_دنتو_سمارت_لتجميل_الاسنان/
+Redirect 301 /ar/singel_portfolio/التواصل_الاجتماعي_لحلويات_الدمياطي/319 /ar/portfolio/التواصل_الاجتماعي_لحلويات_الدمياطي/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمات_السوشيال_ميديا_والتسويق_-_Body_weight_loss/362 /ar/portfolio/تقديم_خدمات_السوشيال_ميديا_والتسويق_-_Body_weight_loss/
+Redirect 301 /ar/singel_portfolio/إدارة_منصة_وسائل_التواصل_الاجتماعي_الي_تكنوباور_جروب/490 /ar/portfolio/إدارة_منصة_وسائل_التواصل_الاجتماعي_الي_تكنوباور_جروب/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_سوشيال_ميديا_-_Skills_Bank/371 /ar/portfolio/تقديم_خدمة_سوشيال_ميديا_-_Skills_Bank/
+Redirect 301 /ar/singel_portfolio/Isage---تقديم-خدمات-السوشيال-ميديا/479 /ar/portfolio/Isage---تقديم-خدمات-السوشيال-ميديا/
+Redirect 301 /ar/singel_portfolio/تقديم_كافة_خدمات_السوشيال_ميديا_-_THE_APPLECARE/372 /ar/portfolio/تقديم_كافة_خدمات_السوشيال_ميديا_-_THE_APPLECARE/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمات_السوشيال_ميديا_لشركة_-_Bright_career_academy/368 /ar/portfolio/تقديم_خدمات_السوشيال_ميديا_لشركة_-_Bright_career_academy/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_سوشيال_ميديا_لشركة_-_Premedion/357 /ar/portfolio/تقديم_خدمة_سوشيال_ميديا_لشركة_-_Premedion/
+Redirect 301 /ar/singel_portfolio/تقديم_خدمة_سوشيال_ميديا_لشركة__-_Egypt_dance_carnival/361 /ar/portfolio/تقديم_خدمة_سوشيال_ميديا_لشركة__-_Egypt_dance_carnival/
+Redirect 301 /ar/singel_portfolio/ادارة-منصات-التواصل-الاجتماعي-لشركة-غازتك/436 /ar/portfolio/ادارة-منصات-التواصل-الاجتماعي-لشركة-غازتك/
+Redirect 301 /ar/singel_portfolio/buildertravel/307 /ar/portfolio/buildertravel/
+Redirect 301 /ar/singel_portfolio/اداره_التسويق_لشركة_بيج_ديل_كندا/288 /ar/portfolio/اداره_التسويق_لشركة_بيج_ديل_كندا/
+Redirect 301 /ar/singel_portfolio/سوشيال_ميديا_-_AbiSayara/297 /ar/portfolio/سوشيال_ميديا_-_AbiSayara/
+Redirect 301 /ar/singel_portfolio/elhossary-marketing/286 /ar/portfolio/elhossary-marketing/
+Redirect 301 /ar/singel_portfolio/ماجيك-ويندوز-سوشيال-ميديا-ماركتنج/266 /ar/portfolio/ماجيك-ويندوز-سوشيال-ميديا-ماركتنج/
+Redirect 301 /ar/singel_portfolio/مواقع_التواصل_الاجتماعي_لـدايت_هاوس/318 /ar/portfolio/مواقع_التواصل_الاجتماعي_لـدايت_هاوس/
+Redirect 301 /ar/singel_portfolio/سوشيال_ميديا_لموقع_7_صنايع/265 /ar/portfolio/سوشيال_ميديا_لموقع_7_صنايع/
+
+
+
+
+Redirect 301 /public/index.php/en /en
+ Redirect 301 /public/index.php/ar /ar
+ 
+ Redirect 301 /landingpage/index.html  /en/landingpage
+ Redirect 301 /public/landingpage/index.html  /en/landingpage
+ 
+ Redirect 301 /ar/services/digital-marketing /ar/all_services/خدمات-التسويق-الالكتروني/30
+  Redirect 301 /ar/blog/what-are-the-digital-marketing-services /ar/singel_post/_what-are-the-digital-marketing-services/202
+
+Redirect 301 /ar/blog/7-effective-steps-to-start-a-successful-digital-marketing /ar/singel_post/_what-are-the-digital-marketing-services/202
+
+Redirect 301 /ar/blog/the-evolution-and-development-of-digital-marketing /ar/singel_post/_what-are-the-digital-marketing-services/202
+
+Redirect 301 /ar/blog/how-to-marketing-new-products /ar/singel_post/%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/194
+
+Redirect 301 /services/web-solutions /en/all_services/Services/31 
+
+
+ 
+ Redirect 301 /ar/singel_post/تعلم-كيفية-تحسين-ترتيب-موقع-العميل-في-الصفحات-الاولى-لجوجل-وذلك-لان-العميل-يريد-ان-يستحوذ-على-امبر-عدد-من-زوار-العملاء-المحت0ملين-وبالتالى-تحقيق-الاهداف/114 /ar/singel_post/%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%81%D9%8A-%D8%AC%D9%88%D8%AC%D9%84-%D8%A7%D9%88%D9%84-%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D9%88%D9%82%D8%B9%D9%87/114
+ 
+
+Redirect 301 /services/digital-marketing /en/singel_post/_what-are-the-digital-marketing-services/202
+
+Redirect 301 /ar/blog/how-to-choose-a-web-design-company /ar/singel_post/%D9%83%D9%8A%D9%81-%D8%AA%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D9%88%D8%A7%D9%82%D8%B9/197
+
+
+
+Redirect 301 /services/page/social-media-marketing /ar/singel_services/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%B9%D8%A8%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%89/203
+
+
+Redirect 301 /ar/blog/what-is-the-importance-of-digital-marketing /ar/singel_post/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/152
+
+
+
+
+ 
+
+
+
+Redirect 301 /ar/blog/tags/seo?page=2 /ar/singel_post/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B4%D9%87%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%88%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/145
+
+
+
+
+Redirect 301 /ar/services/page/seo /ar/singel_services/%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/205
+
+
+
+
+
+
+Redirect 301 /ar/blog/compare-between-seo-and-sem /ar/singel_services/%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/205
+
+
+
+
+
+
+Redirect 301 /services/page/graphic-design /ar/singel_services/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83/216
+
+
+
+
+
+
+
+
+Redirect 301 /ar/package/social-media-marketing /ar/singel_services/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%B9%D8%A8%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%89/203
+
+
+
+
+
+
+
+
+#Redirect 301 /ar/singel_post/social-media-marketing-tips/139 /ar/singel_post/%D8%A7%D8%B2%D8%A7%D9%89-%D8%AA%D8%A8%D8%AF%D8%A7-%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7/180
+
+
+
+
+
+Redirect 301 /ar/singel_services/________social-media-marketing/203 /ar/singel_services/%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%B9%D8%A8%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%89/203
+
+Redirect 301 /ar/singel_services/_____online-advertising/204 /ar/singel_services/%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%AD%D8%B3%D8%A8-%D8%A7%D9%84%D9%86%D9%82%D8%B1%D8%A9/204
+
+Redirect 301 /ar/singel_services/seo/205 /ar/singel_services/%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/205
+
+Redirect 301 /ar/singel_services/conversion-optimization/211 /ar/singel_services/%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D9%85%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%8A%D9%84/211
+
+Redirect 301 /ar/singel_services/content-marketing/212 /ar/singel_services/%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%8A/212
+
+Redirect 301 /ar/singel_services/web-design/213 /ar/singel_services/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89/213
+
+Redirect 301 /ar/singel_services/web-developing/214 /ar/singel_services/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/214
+
+Redirect 301 /ar/singel_services/mobile-app/215 /ar/singel_services/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/215
+
+Redirect 301 /ar/singel_services/photography/217 /ar/singel_services/%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A/217
+
+Redirect 301 /ar/singel_services/graphic-design/216 /ar/singel_services/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83/216
+
+Redirect 301 /ar/singel_post/the-difference-between-the-graphic-designer-and-web-designer/236 /ar/singel_post/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D9%85%D8%B5%D9%85%D9%85-%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83-%D9%88%D9%85%D8%B5%D9%85%D9%85-%D9%88%D9%8A%D8%A8/236
+
+Redirect 301 /ar/singel_post/pricing-strategy-for-your-product-or-service/201 /ar/singel_post/%D9%85%D8%A7%D9%87%D9%89-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1-%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA%D9%83-%D8%A7%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%D9%83/201
+
+Redirect 301 /ar/singel_post/learn-about-digital-marketing-from-the-beginning-to-the-end/199 /ar/singel_post/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D9%87-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D9%87/199
+
+Redirect 301 /ar/singel_post/the-marketing-mix-is-key-to-a-successful-marketing-plan/198 /ar/singel_post/%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AC-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%D9%8A-%D8%B3%D8%B1-%D9%86%D8%AC%D8%A7%D8%AD-%D8%AE%D8%B7%D9%87-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82/198
+
+Redirect 301 /ar/singel_post/how-to-choose-a-web-design-company/197 /ar/singel_post/%D9%83%D9%8A%D9%81-%D8%AA%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D9%88%D8%A7%D9%82%D8%B9/197
+
+Redirect 301 /ar/singel_post/5-killing-mistakes-in-digital-marketing/195 /ar/singel_post/5-%D8%A7%D8%AE%D8%B7%D8%A7%D8%A1-%D9%82%D8%A7%D8%AA%D9%84%D8%A9-%D9%81%D9%89-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89/195
+
+Redirect 301 /ar/singel_post/how-to-marketing-new-products/194 /ar/singel_post/%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/194
+
+Redirect 301 /ar/singel_post/top-5-factors-to-reach-the-first-page-in-google/193 /ar/singel_post/%D8%A7%D9%87%D9%85-5-%D8%B9%D9%88%D8%A7%D9%85%D9%84-%D9%84%D9%84%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%81%D9%89-%D8%AC%D9%88%D8%AC%D9%84/193
+
+Redirect 301 /ar/singel_post/why-your-business-should-invest-in-seo/191 /ar/singel_post/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AC%D8%A8-%D8%B9%D9%84%D9%89-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%81%D9%89-%D8%A7%D9%84%D8%B3%D9%8A%D9%88/191
+
+Redirect 301 /ar/singel_post/the-most-important-future-expectations-in-the-seo/190 /ar/singel_post/%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%8A%D9%88/190
+
+Redirect 301 /ar/singel_post/whats-the-meaning-of-branding/189 /ar/singel_post/%D9%8A%D8%B9%D9%86%D9%89-%D8%A7%D9%8A%D9%87-%D8%A8%D8%B1%D8%A7%D9%86%D8%AF%D9%8A%D9%86%D8%AC-%D8%A7%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/189
+
+Redirect 301 /ar/singel_post/top-10-website-to-get-creative-photos/187 /ar/singel_post/%D8%A3%D9%81%D8%B6%D9%84-10-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%B5%D9%88%D8%B1-%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D9%8A%D8%A9/187
+
+Redirect 301 /ar/singel_post/updates-on-the-digital-marketing/186 /ar/singel_post/%D8%A7%D8%AE%D8%B1-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-15-%D9%8A%D9%88%D9%86%D9%8A%D9%88-2017/186
+
+Redirect 301 /ar/singel_post/how-to-be-a-web-developer/185 /ar/singel_post/%D9%83%D9%8A%D9%81-%D8%AA%D9%83%D9%88%D9%86-%D9%85%D8%B7%D9%88%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%88-%D9%88%D9%8A%D8%A8-%D8%AF%D9%8A%D9%81%D9%84%D9%88%D8%A8%D8%B1/185
+
+Redirect 301 /ar/singel_post/top-10-website-to-check-your-backlink/184 /ar/singel_post/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%A7%D9%88-%D8%A7%D9%84%D8%A8%D8%A7%D9%83-%D9%84%D9%8A%D9%86%D9%83-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D9%87-%D8%A8%D9%85%D9%88%D9%82%D8%B9%D9%83/184
+
+Redirect 301 /ar/singel_post/the-tools-in-digital-marketing/183 /ar/singel_post/%D9%85%D8%A7--%D8%A7%D9%84%D8%B0%D9%89--%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%84-%D9%81%D9%89--%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/183
+
+Redirect 301 /ar/singel_post/what-is-the-meaning-of-franchising/182 /ar/singel_post/%D9%85%D8%A7-%D9%87%D9%88-%D9%85%D8%B9%D9%86%D9%89-%D8%AD%D9%82-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2-%D8%A7%D9%88-%D8%AD%D9%82-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/182
+
+Redirect 301 /ar/singel_post/how-to-make-partnership-around-the-world-special-in-italia/179 /ar/singel_post/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%B9%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%81%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A3%D9%86%D8%AD%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/179
+
+Redirect 301 /ar/singel_post/weekly-news-and-updates-on-news-in-the-digital-world/178 /ar/singel_post/%D8%A7%D8%AE%D8%B1-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-25-%D9%85%D8%A7%D9%8A%D9%88-2017/178
+
+Redirect 301 /ar/singel_post/how-to-build-backlinks/177 /ar/singel_post/%D8%A7%D8%B2%D8%A7%D9%89-%D8%AA%D8%A8%D9%86%D9%89-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%AE%D9%84%D9%81%D9%8A%D8%A9/177
+
+Redirect 301 /ar/singel_post/weekly-news-to-keep-you-updated-on-marketing/176 /ar/singel_post/%D8%A7%D8%AE%D8%B1-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-18/176
+
+Redirect 301 /ar/singel_post/how-to-create-a-social-media-companies/175 /ar/singel_post/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9/175
+
+Redirect 301 /ar/singel_post/how-to-start-social-media-/180 /ar/singel_post/%D8%A7%D8%B2%D8%A7%D9%89-%D8%AA%D8%A8%D8%AF%D8%A7-%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7/180
+
+Redirect 301 /ar/singel_post/weekly-news-to-keep-you-updated-on-whats-happening/174 /ar/singel_post/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-11/174
+
+Redirect 301 /ar/singel_post/how-to-become-a-freelancer/173 /ar/singel_post/%D8%A3%D8%B2%D8%A7%D9%89-%D8%AA%D9%83%D9%88%D9%86-%D9%81%D8%B1%D9%8A%D9%84%D8%A7%D9%86%D8%B3%D8%B1/173
+
+Redirect 301 /ar/singel_post/how-to-create-ads-on-google-adwords/172 /ar/singel_post/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA/172
+
+Redirect 301 /ar/singel_post/weekly-updates-and-news-about-the-digital-world/171 /ar/singel_post/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-4/171
+
+Redirect 301 /ar/singel_post/compare-between-seo-and-sem/170 /ar/singel_post/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-SEO--%D9%88-SEM/170
+
+Redirect 301 /ar/singel_post/updated-news-about-the-digital-world-and-marketing/168 /ar/singel_post/%D8%A7%D8%AE%D8%B1-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-27/168
+
+Redirect 301 /ar/singel_post/the-importance-to-use-tools-in-digital-marketing/169 /ar/singel_post/أهمية-استخدام-الأدوات-في-التسويق/169
+
+Redirect 301 /ar/singel_post/types-of-marketing-and-their-differences/167 /ar/singel_post/%D9%85%D8%A7-%D9%87%D9%88-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82/167
+
+Redirect 301 /ar/singel_post/weekly-updates-about-the-world/166 /ar/singel_post/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-20/166
+
+Redirect 301 /ar/singel_post/what-is-the-meaning-content-marketing/165 /ar/singel_post/%D9%8A%D8%B9%D9%86%D9%89-%D8%A7%D9%8A%D9%87-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%D9%89/165
+
+Redirect 301 /ar/singel_post/weekly-updates-and-new-about-digital-marketing-and-technology/164 /ar/singel_post/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-13/164
+
+Redirect 301 /ar/singel_post/host-and-domain-understanding-the-difference/163 /ar/singel_post/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%85%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%87%D9%88%D8%B3%D8%AA/163
+
+Redirect 301 /ar/singel_post/advantages-and-disadvantages-of-using-wordpress/162 /ar/singel_post/%D8%A7%D8%A8%D8%B1%D8%B2-%D9%85%D8%B2%D8%A7%D9%8A%D8%A7-%D9%88-%D8%B9%D9%8A%D9%88%D8%A8-%D9%88%D9%88%D8%B1%D8%AF-%D8%A8%D8%B1%D9%8A%D8%B3/162
+
+Redirect 301 /ar/singel_post/weekly-digital-marketing-updates-and-news/161 /ar/singel_post/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%84%D9%8A%D9%88%D9%85-6/161
+
+Redirect 301 /ar/singel_post/weekly-marketing-updates/159 /ar/singel_post/%D9%86%D8%B4%D8%B1%D9%87-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D9%8A%D8%AA%D8%A7%D9%84/159
+
+Redirect 301 /ar/singel_post/how-to-analyze-your-competitors-in-social-media-platform/158 /ar/singel_post/%D8%A7%D8%B2%D8%A7%D9%89-%D8%AA%D8%AD%D9%84%D9%84-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%89/158
+
+Redirect 301 /ar/singel_post/weekly-marketing-newsletter/157 /ar/singel_post/%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9/157
+
+Redirect 301 /ar/singel_post/7-effective-steps-to-start-a-successful-digital-marketing/155 /ar/singel_post/7-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D9%81%D8%B9%D8%A7%D9%84%D8%A9-%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D9%86%D8%A7%D8%AC%D8%AD/155
+
+Redirect 301 /ar/singel_post/how-can-you-follow-up-all-digital-marketing-news-and-updates/154 /ar/singel_post/%D8%A7%D8%B2%D8%A7%D9%89-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D8%AE%D8%B1-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AC%D8%AA%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D9%83%D8%AA%D9%8A%D9%86%D8%AC/154
+
+Redirect 301 /ar/singel_post/top-10-seo-rank-tracking-tools-in-search-engine/153 /ar/singel_post/%D8%A7%D9%81%D8%B6%D9%84-10-%D8%A7%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%85%D9%88%D9%82%D8%B9%D9%83-%D9%81%D9%89-%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/153
+
+Redirect 301 /ar/singel_post/what-is-the-importance-of-digital-marketing/152 /ar/singel_post/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%87-%D9%84%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/152
+
+Redirect 301 /ar/singel_post/the-difference-between-traditional-and-digital-marketing/151 /ar/singel_post/%D8%A7%D9%8A%D9%87-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D9%88-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%89/151
+
+Redirect 301 /ar/singel_post/differences-between-the-marketing-of-a-product-and-service/150 /ar/singel_post/%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D9%84%D9%85%D9%86%D8%AA%D8%AC-%D9%88%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/150
+
+Redirect 301 /ar/singel_post/different-between-blueprinting-flowcharting/149 /ar/singel_post/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D9%88%D8%A7%D9%84%D8%AA%D8%AF%D9%81%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%D9%8A%D8%A9/149
+
+Redirect 301 /ar/singel_post/how-to-start-in-social-media-in-nine-steps/148 /ar/singel_post/%D8%A5%D8%B2%D8%A7%D9%8A-%D8%AA%D8%A8%D8%AF%D8%A3-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7-%D9%81%D9%8A-9-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA/148
+
+Redirect 301 /ar/singel_post/better-social-media-tools-to-help-you/147 /ar/singel_post/%D8%A7%D9%81%D8%B6%D9%84-%D8%A7%D8%AF%D9%88%D8%A7%D8%AA-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7/147
+
+Redirect 301 /ar/singel_post/the-important-and-recent-five-challenges-for-seo/146 /ar/singel_post/%D8%A3%D9%87%D9%85-%D9%88%D8%A3%D8%AD%D8%AF%D8%AB-5-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D9%84%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D9%88%D9%82%D8%B9%D9%83-%D9%84%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/146
+
+Redirect 301 /ar/singel_post/importance-of-publicity-and-seo/145 /ar/singel_post/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B4%D9%87%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%88%D8%AA%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/145
+
+Redirect 301 /ar/singel_post/how-do-you-use-hashtag-top-efficiency-in-e-marketing-for-your-company/144 /ar/singel_post/%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D8%AA%D8%A7%D8%AC-%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9-%D9%81%D9%89-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82/144
+
+Redirect 301 /ar/singel_post/blog-is-primary-in-digital-marketing-reason-is-content/143 /ar/singel_post/%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9-%D8%AC%D8%B2%D8%A1-%D9%84%D8%A7-%D9%8A%D8%AA%D8%AC%D8%B2%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82/143
+
+Redirect 301 /ar/singel_post/how-to-be-web-designer/142 /ar/singel_post/%D8%A7%D8%B2%D8%A7%D9%89-%D8%A7%D9%83%D9%88%D9%86-%D9%85%D8%B5%D9%85%D9%85-%D9%88%D9%8A%D8%A8/142
+
+Redirect 301 /ar/singel_post/web-development-tips-to-boost-your-skills/141 /ar/singel_post/25-%D9%86%D8%B5%D9%8A%D8%AD%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%83/141
+
+Redirect 301 /ar/singel_post/what-is-cms/130 /ar/singel_post/%D9%85%D8%A7-%D9%87%D9%88-%D9%86%D8%B8%D8%A7%D9%85-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89/130
+
+Redirect 301 /ar/singel_post/the-best-free-ftp-clients/129 /ar/singel_post/%D8%A7%D9%81%D8%B6%D9%84-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-FTP/129
+
+Redirect 301 /ar/singel_post/online-marketing-services-as-clients/125 /ar/singel_post/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D9%83%D9%85%D8%A7-%D9%8A%D9%81%D8%B6%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1/125
+
+Redirect 301 /ar/singel_post/brand-identity-development/123 /ar/singel_post/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/123
+
+Redirect 301 /ar/singel_post/how-to-create-twitter-ads/122 /ar/singel_post/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%82%D8%B9--%D8%AA%D9%88%D9%8A%D8%AA%D8%B1/122
+
+Redirect 301 /ar/singel_post/acebook-advertising/121 /ar/singel_post/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%81%D9%8A%D8%B3-%D8%A8%D9%88%D9%83/121
+
+Redirect 301 /ar/singel_post/importance-of-marketing-for-success/120 /ar/singel_post/%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/120
+
+Redirect 301 /ar/singel_post/portance-of-websites/119 /ar/singel_post/%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/119
+
+Redirect 301 /ar/singel_post/what-is-meaning-of-outsourcing/117 /ar/singel_post/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D9%86%D8%A9--%D8%A8%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9/117
+
+Redirect 301 /ar/Online-advertising-companies /ar/online-advertising-companies
+
+Redirect 301 /en/Online-advertising-companies /en/online-advertising-companies
+
+Redirect 301 /ar/Digital-Marketing-Company /ar/best-digital-marketing-company-in-egypt
+
+Redirect 301 /en/Best-Digital-Marketing-company-in-egypt /en/best-digital-marketing-company-in-egypt
+
+Redirect 301 /ar/لماذا-يجب-على-رجال-الاعمال-الاستثمار-فى-السيو /ar/_why-your-business-should-invest-in-seo
+
+Redirect 301 /ar/Best-Web-Design-Company /ar/best-web-design-company
+
+Redirect 301 /en/The-Best-web-design-companies-in-Egypt /en/best-web-design-company
+
+Redirect 301 /ar/ازاى-تبنى-روابط-خلفية /ar/how-to-build-backlinks
+
+Redirect 301 /en/_how-to-build-backlinks /en/how-to-build-backlinks
+
+Redirect 301 /ar/كيف-تسوق-المنتجات-الجديدة /ar/how-to-marketing-new-products
+
+Redirect 301 /en/_how-to-marketing-new-products /en/how-to-marketing-new-products
+
+Redirect 301 /ar/كيفية-إنشاء-الإعلانات /ar/how-to-create-ads-on-google-adwords
+
+Redirect 301 /en/_how-to-create-ads-on-google-adwords /en/how-to-create-ads-on-google-adwords
+
+Redirect 301 /en/__the-future-of-digital-marketing-is-personalizatio /en/the-future-of-digital-marketing-is-personalizatio
+
+Redirect 301 /ar/كيف-تختار-شركة-تصميم-مواقع /ar/how-to-choose-a-web-design-company
+
+Redirect 301 /en/_how-to-choose-a-web-design-company /en/how-to-choose-a-web-design-company
+
+Redirect 301 /ar/يعنى-ايه-المحتوى-التسويقى /ar/what-is-the-meaning-content-marketing
+
+Redirect 301 /en/_what-is-the-meaning-content-marketing /en/what-is-the-meaning-content-marketing
+
+Redirect 301 /ar/ما-هو-أنواع-التسويق /ar/types-of-marketing-and-their-differences
+
+Redirect 301 /en/_types-of-marketing-and-their-differences /en/types-of-marketing-and-their-differences
+
+Redirect 301 /ar/يعنى-ايه-براندينج-او-العلامة-التجارية /ar/whats-the-meaning-of-branding
+
+Redirect 301 /en/_whats-the-meaning-of-branding /en/whats-the-meaning-of-branding
+
+Redirect 301 /ar/ايه-هو-الفرق-بين-SEO--و-SEM /ar/compare-between-seo-and-sem
+
+Redirect 301 /en/_compare-between-seo-and-sem /en/compare-between-seo-and-sem
+
+Redirect 301 /ar/الفرق-بين-الدومين-والهوست /ar/host-and-domain-understanding-the-difference
+
+Redirect 301 /en/_host-and-domain-understanding-the-difference /en/host-and-domain-understanding-the-difference
+
+Redirect 301 /ar/نشرة-اخبار-الديجتال-ليوم-11 /ar/weekly-news-to-keep-you-updated-on-whats-happening
+
+Redirect 301 /en/_weekly-news-to-keep-you-updated-on-whats-happening /en/weekly-news-to-keep-you-updated-on-whats-happening
+
+ 
+Redirect 301 /ar/نشرة-اخبار-الديجتال-ليوم-13 /ar/weekly-updates-and-new-about-digital-marketing-and-technology
+
+Redirect 301 /en/_weekly-updates-and-new-about-digital-marketing-and-technology /en/weekly-updates-and-new-about-digital-marketing-and-technology
+
+
+
+
+
+Redirect 301 /ar/تعرف-على-التسويق-الالكترونى-من-البدايه-الى-النهايه /ar/learn-about-digital-marketing-from-the-beginning-to-the-end
+
+Redirect 301 /en/__learn-about-digital-marketing-from-the-beginning-to-the-end /en/learn-about-digital-marketing-from-the-beginning-to-the-end
+
+Redirect 301 /ar/أهمية-استخدام-الأدوات-في-التسويق /ar/the-importance-to-use-tools-in-digital-marketing
+
+Redirect 301 /en/___the-importance-to-use-tools-in-digital-marketing /en/the-importance-to-use-tools-in-digital-marketing
+
+Redirect 301 /ar/أزاى-تكون-فريلانسر /ar/how-to-become-a-freelancer
+
+Redirect 301 /en/_how-to-become-a-freelancer /en/how-to-become-a-freelancer
+
+Redirect 301 /ar/اخر-اخبار-الديجتال-ليوم-18 /ar/weekly-news-to-keep-you-updated-on-marketing
+
+Redirect 301 /en/_weekly-news-to-keep-you-updated-on-marketing /en/weekly-news-to-keep-you-updated-on-marketing
+
+Redirect 301 /ar/الفرق-بين-مصمم-جرافيك-ومصمم-ويب /ar/the-difference-between-graphic-designer-and-web-designer
+
+Redirect 301 /ar/افضل-10-ادوات-لتحديد-ترتيب-موقعك-فى-محركات-البحث /ar/top-10-seo-rank-tracking-tools-in-search-engine
+
+Redirect 301 /en/_top-10-seo-rank-tracking-tools-in-search-engine /en/top-10-seo-rank-tracking-tools-in-search-engine
+
+Redirect 301 /ar/ازاى-تبدا-سوشيال-ميديا /ar/how-to-start-social-media
+
+Redirect 301 /en/_how-to-start-social-media /en/how-to-start-social-media
+
+Redirect 301 /ar/نشرة-اخبار-الديجتال-ليوم-20 /ar/weekly-updates-about-the-world
+
+Redirect 301 /en/_weekly-updates-about-the-world /en/weekly-updates-about-the-world
+
+Redirect 301 /ar/المزيج-التسويقي-سر-نجاح-خطه-التسويق /ar/the-marketing-mix-is-key-to-a-successful-marketing-plan
+
+Redirect 301 /en/__the-marketing-mix-is-key-to-a-successful-marketing-plan /en/the-marketing-mix-is-key-to-a-successful-marketing-plan
+
+Redirect 301 /ar/5-اخطاء-قاتلة-فى-التسويق-الالكترونى /ar/5-killing-mistakes-in-digital-marketing
+
+Redirect 301 /en/__5-killing-mistakes-in-digital-marketing /en/5-killing-mistakes-in-digital-marketing
+
+Redirect 301 /en/___why-franchising /en/why-franchising
+
+Redirect 301 /ar/حق-امتياز-الماركات /ar/why-franchising
+
+Redirect 301 /ar/افضل-برامج-نقل-الملفات-FTP /ar/the-best-free-ftp-clients
+
+Redirect 301 /en/_the-best-free-ftp-clients /en/the-best-free-ftp-clients
+
+Redirect 301 /ar/مميزات-وعيوب-الفرانشايز /ar/franchise-concept
+
+Redirect 301 /en/_franchise-concept /en/franchise-concept
+
+Redirect 301 /ar/تسويق-المحتوى /ar/Importance-of-content-marketing
+
+Redirect 301 /en/_Importance-of-content-marketing /en/Importance-of-content-marketing
+
+Redirect 301 /ar/تهيئة-محركات-البحث-و-ادارتها /ar/search-engine-optimization
+
+Redirect 301 /en/_Search-engine-optimization /en/search-engine-optimization
+
+Redirect 301 /ar/ماهى-خدمات-التسويق-الإلكتروني-؟ /ar/what-are-the-digital-marketing-services
+
+Redirect 301 /en/_what-are-the-digital-marketing-services /en/what-are-the-digital-marketing-services
+
+Redirect 301 /en/_top-marketing-tips /en/top-marketing-tips
+
+Redirect 301 /ar/ما-هو-نظام-إدارة-المحتوى /ar/what-is-cms
+
+Redirect 301 /en/_what-is-cms /en/what-is-cms
+
+Redirect 301 /en/_choose-cord-digital /en/choose-cord-digital
+
+Redirect 301 /ar/اهم-الاسباب-لاختيارك-شركة-كورد-ديجيتال /ar/choose-cord-digital
+
+Redirect 301 /en/_why-benchmarking /en/why-benchmarking
+
+Redirect 301 /ar/التقييم-و-المفاضلة-في-خطة-العمل---للشركات-اجديدة /ar/why-benchmarking 
+
+Redirect 301 /en/_return-on-investment-in-online-campaigns /en/return-on-investment-in-online-campaigns
+
+Redirect 301 /ar/العائد-من-الحملات-الاعلانية-عبر-الانترنت /ar/return-on-investment-in-online-campaigns
+
+Redirect 301 /ar/إزاي-نقدر-نطور-الصناعة-في-بلدنا /ar/how-to-develop-industry-in-egypt
+
+Redirect 301 /en/_how-to-develop-industry-in-egypt /en/how-to-develop-industry-in-egypt
+
+Redirect 301 /ar/اسرار-زيادة-الربح-عن-طريق-التصنيع-الخارجي /ar/the-7-secrets-of-making-money
+
+Redirect 301 /en/_the-7-secrets-of-making-money /en/the-7-secrets-of-making-money
+
+Redirect 301 /en/_get-in-shape-with-seo /en/get-in-shape-with-seo
+
+Redirect 301 /ar/لنتائج-الاولى-في-جوجل-اول-طلبات-العميل-بعد-تصميم-موقعه /ar/get-in-shape-with-seo
+
+Redirect 301 /ar/استخدام-جوجل-بلس-لتحسيم-من-مرتبة-موقعك-في-محركات-البحث /ar/behind-enemy-lines-with-google
+
+Redirect 301 /en/_behind-enemy-lines-with-google /en/behind-enemy-lines-with-google
+
+Redirect 301 /en/_need-to-outsource /en/need-to-outsource
+
+Redirect 301 /ar/الاستعانة--بمصادر-خارجية-للتصنيع /ar/what-is-meaning-of-outsourcing
+
+Redirect 301 /en/_what-is-meaning-of-outsourcing /en/what-is-meaning-of-outsourcing
+
+Redirect 301 /ar/اهمية-المواقع-الالكترونية /ar/importance-of-websites
+
+Redirect 301 /en/___blogimportance-of-websites /en/importance-of-websites
+
+Redirect 301 /ar/اهمية-التسويق-لنجاح-المشاريع-التجارية /ar/importance-of-marketing-for-success
+
+Redirect 301 /en/__importance-of-marketing-for-success /en/importance-of-marketing-for-success
+
+Redirect 301 /ar/الحملات-الاعلانية-على-الفيس-بوك /ar/facebook-advertising
+
+Redirect 301 /en/_acebook-advertising /en/facebook-advertising
+
+Redirect 301 /ar/الحملات-الاعلانية-على-موقع--تويتر /ar/how-to-create-twitter-ads
+
+Redirect 301 /en/_how-to-create-twitter-ads /en/how-to-create-twitter-ads
+
+Redirect 301 /ar/تطوير-هوية-العلامة-التجارية /ar/brand-identity-development
+
+Redirect 301 /en/_brand-identity-development /en/brand-identity-development
+
+Redirect 301 /ar/كيفية-اختيار-كلمات-مفتاحية-ذات-كثافة-بحث-عالية /ar/how-to-choose-highest-keyword-search-volume
+
+Redirect 301 /en/_how-to-choose-highest-keyword-search-volume /en/how-to-choose-highest-keyword-search-volume
+
+Redirect 301 /en/_the-importance-strategic-integration-marketing-scm /en/the-importance-strategic-integration-marketing-scm
+
+Redirect 301 /en/_economies-of-scale-scope-marketing-scm-strategic /en/economies-of-scale-scope-marketing-scm-strategic
+
+Redirect 301 /en/_new-services-from-facebook /en/new-services-from-facebook
+
+Redirect 301 /ar/10-عوامل-يمكن-ان-تؤثر-على-حجم-العملاء-الطبيعين-لموقعك /ar/factors-that-impacting-your-organic-traffic
+
+Redirect 301 /en/_factors-that-impacting-your-organic-traffic /en/factors-that-impacting-your-organic-traffic
+
+Redirect 301 /en/_mobile-marketing-amplification-content /en/mobile-marketing-amplification-content
+
+Redirect 301 /en/_e-commerce-seo-strategic-redesign-web-shops /en/e-commerce-seo-strategic-redesign-web-shops
+
+Redirect 301 /en/_google-brings-rich-results-filter-to-search-analytics /en/google-brings-rich-results-filter-to-search-analytics
+
+Redirect 301 /en/_bing-testing-twitter-results-search-results /en/bing-testing-twitter-results-search-results
+
+Redirect 301 /en/_https-setup-causing-seo-issues /en/https-setup-causing-seo-issues
+
+Redirect 301 /en/_common-seo-mistakes-content-marketers /en/common-seo-mistakes-content-marketers
+
+Redirect 301 /en/_social-media-marketing-tips /en/social-media-marketing-tips
+
+Redirect 301 /en/_top-webdesign-topics /en/top-webdesign-topics
+
+Redirect 301 /ar/25-نصيحة-لتطوير-مواقع-الويب-تعزيز-مهاراتك /ar/web-development-tips-to-boost-your-skills
+
+Redirect 301 /en/_web-development-tips-to-boost-your-skills /en/web-development-tips-to-boost-your-skills
+
+Redirect 301 /ar/ازاى-اكون-مصمم-ويب /ar/how-to-be-web-designer
+
+Redirect 301 /en/_how-to-be-web-designer /en/how-to-be-web-designer
+
+Redirect 301 /en/_blog-is-primary-in-digital-marketing-reason-is-content /en/blog-is-primary-in-digital-marketing-reason-is-content
+
+Redirect 301 /ar/المدونة-جزء-لا-يتجزأ-من-التسويق /ar/blog-is-primary-in-digital-marketing-reason-is-content
+
+Redirect 301 /ar/كيف-تستخدم-الهاشتاج-لأعلى-فاعلية-فى-التسويق /ar/how-do-you-use-hashtag
+
+Redirect 301 /en/_how-do-you-use-hashtag-top-efficiency-in-e-marketing-for-your-company /en/how-do-you-use-hashtag
+
+Redirect 301 /en/_importance-of-publicity-and-seo /en/importance-of-publicity-and-seo
+
+Redirect 301 /ar/أهمية-اشهار-المواقع-وتهيئة-المواقع-لمحركات-البحث /ar/importance-of-publicity-and-seo
+
+Redirect 301 /en/_the-important-and-recent-five-challenges-for-seo /en/the-important-five-challenges-for-seo
+
+Redirect 301 /ar/أهم-وأحدث-5-تحديات-لتهيئة-موقعك-لمحركات-البحث /ar/the-important-five-challenges-for-seo
+
+Redirect 301 /ar/افضل-ادوات-مساعدة-فى-السوشيال-ميديا /ar/social-media-tools
+
+Redirect 301 /en/_better-social-media-tools-to-help-you /en/social-media-tools
+
+Redirect 301 /ar/إزاي-تبدأ-في-مجال-السوشيال-ميديا-في-9-خطوات /ar/how-to-start-in-social-media
+
+Redirect 301 /en/_how-to-start-in-social-media-in-nine-steps /en/how-to-start-in-social-media
+
+Redirect 301 /ar/تعريف-الفرق-بين-الخرائط-والتدفقات-التسويقية /ar/different-between-blueprinting-flowcharting
+
+Redirect 301 /en/_different-between-blueprinting-flowcharting /en/different-between-blueprinting-flowcharting
+
+Redirect 301 /ar/اهم-الاختلافات-بين-التسويق-لمنتج-والتسويق-للخدمات /ar/the-marketing-of-a-product-and-service
+
+Redirect 301 /en/_differences-between-the-marketing-of-a-product-and-service /en/the-marketing-of-a-product-and-service
+
+Redirect 301 /ar/ايه-الفرق-بين-التسويق-الالكترونى-و-التسويق-التقليدى /ar/traditional-and-digital-marketing
+
+Redirect 301 /en/_the-difference-between-traditional-and-digital-marketing /en/traditional-and-digital-marketing
+
+Redirect 301 /ar/ايه-هو-أهمية-التسويق-الالكترونى-بالنسبه-للشركات /ar/importance-of-digital-marketing
+
+Redirect 301 /en/_what-is-the-importance-of-digital-marketing /en/importance-of-digital-marketing
+
+Redirect 301 /ar/ازاى-تتابع-اخر-اخبار-الديجتال-ماركتينج /ar/digital-marketing-news-and-updates
+
+Redirect 301 /en/_how-can-you-follow-up-all-digital-marketing-news-and-updates /en/digital-marketing-news-and-updates
+
+Redirect 301 /ar/7-خطوات-فعالة-لعمل-تسويق-الكترونى-ناجح /ar/steps-to-start-a-successful-digital-marketing
+
+Redirect 301 /en/_7-effective-steps-to-start-a-successful-digital-marketing /en/steps-to-start-a-successful-digital-marketing
+
+Redirect 301 /ar/النشرة-الاخبارية-الاسبوعية /ar/weekly-marketing-newsletter
+
+Redirect 301 /en/_weekly-marketing-newsletter /en/weekly-marketing-newsletter
+
+Redirect 301 /ar/ازاى-تحلل-وسائل-التواصل-الاجتماعى /ar/how-to-analyze-social-media
+
+Redirect 301 /en/_how-to-analyze-your-competitors-in-social-media-platform /en/how-to-analyze-social-media
+
+Redirect 301 /ar/نشره-اخبار-الديجيتال /ar/weekly-marketing-updates
+
+Redirect 301 /en/_weekly-marketing-updates /en/weekly-marketing-updates
+
+Redirect 301 /ar/العقبات-التي-تواجه-التسويق-الالكترونى /ar/barriers-faced-by-digital-marketing
+
+Redirect 301 /en/_barriers-faced-by-digital-marketing /en/barriers-faced-by-digital-marketing
+
+Redirect 301 /ar/نشرة-اخبار-الديجتال-ليوم-6 /ar/weekly-digital-marketing-updates-and-news
+
+Redirect 301 /en/_weekly-digital-marketing-updates-and-news /en/weekly-digital-marketing-updates-and-news
+
+Redirect 301 /ar/ابرز-مزايا-و-عيوب-وورد-بريس /ar/advantages-and-disadvantages-of-using-wordpress
+
+Redirect 301 /en/_advantages-and-disadvantages-of-using-wordpress /en/advantages-and-disadvantages-of-using-wordpress
+
+Redirect 301 /ar/اخر-اخبار-الديجتال-ليوم-27 /ar/updated-news-about-the-digital-world-and-marketing
+
+Redirect 301 /en/_updated-news-about-the-digital-world-and-marketing /en/updated-news-about-the-digital-world-and-marketing
+
+Redirect 301 /ar/نشرة-اخبار-الديجتال-ليوم-4 /ar/weekly-updates-and-news-about-the-digital-world
+
+Redirect 301 /en/_weekly-updates-and-news-about-the-digital-world /en/weekly-updates-and-news-about-the-digital-world
+
+Redirect 301 /ar/اخر-اخبار-الديجتال-ليوم-25-مايو-2017 /ar/weekly-news-and-updates-in-the-digital-world
+
+Redirect 301 /en/_weekly-news-and-updates-on-news-in-the-digital-world /en/weekly-news-and-updates-in-the-digital-world
+
+Redirect 301 /ar/كيفية-عمل-شراكة-في-جميع-أنحاء-العالم /ar/how-to-make-partnership-around-the-world
+
+Redirect 301 /en/_how-to-make-partnership-around-the-world-special-in-italia /en/how-to-make-partnership-around-the-world
+
+Redirect 301 /ar/اخر-اخبار-الديجتال-ليوم-1-يونيو-2017 /ar/updates-on-the-digital-world
+
+Redirect 301 /en/_updates-on-the-digital-world /en/updates-on-the-digital-world
+
+Redirect 301 /ar/ما-هو-معنى-حق-الامتياز-او-حق-استخدام-العلامة-التجارية /ar/what-is-the-meaning-of-franchising
+
+Redirect 301 /en/_what-is-the-meaning-of-franchising /en/what-is-the-meaning-of-franchising
+
+Redirect 301 /ar/ما--الذى--يحتاجه-العميل-فى--تطبيقات-التجارة-الالكترونية /ar/the-tools-in-digital-marketing
+
+Redirect 301 /en/_the-tools-in-digital-marketing /en/the-tools-in-digital-marketing
+
+Redirect 301 /ar/الروابط-الخلفية-او-الباك-لينك-الخاصه-بموقعك /ar/websites-to-check-your-backlink
+
+Redirect 301 /en/_top-10-website-to-check-your-backlink /en/websites-to-check-your-backlink
+
+Redirect 301 /ar/كيف-تكون-مطور-مواقع-او-ويب-ديفلوبر /ar/how-to-be-a-web-developer
+
+Redirect 301 /en/_how-to-be-a-web-developer /en/how-to-be-a-web-developer
+
+Redirect 301 /ar/اخر-اخبار-الديجتال-ليوم-15-يونيو-2017 /ar/updates-on-the-digital-marketing
+
+Redirect 301 /en/_updates-on-the-digital-marketing /en/updates-on-the-digital-marketing
+
+Redirect 301 /ar/أفضل-10-مواقع-للحصول-على-صور-إبداعية /ar/top-websites-to-get-creative-photos
+
+Redirect 301 /en/_top-10-website-to-get-creative-photos /en/top-websites-to-get-creative-photos
+
+Redirect 301 /ar/اهم-التوقعات-المستقبلية-للسيو /ar/the-important-expectations-in-the-seo
+
+Redirect 301 /en/_the-most-important-future-expectations-in-the-seo /en/the-important-expectations-in-the-seo
+
+Redirect 301 /ar/اهم-5-عوامل-للوصول-للصفحة-الاولى-فى-جوجل /ar/factors-to-reach-the-first-page-in-google
+
+Redirect 301 /en/_top-5-factors-to-reach-the-first-page-in-google /en/factors-to-reach-the-first-page-in-google
+
+Redirect 301 /ar/the-evolution-and-development-of-digital-marketing /ar/the-evolution-and-development-of-digital-marketing
+
+Redirect 301 /en/_the-evolution-and-development-of-digital-marketing /en/the-evolution-and-development-of-digital-marketing
+
+Redirect 301 /ar/ماهى-استراتيجية-التسعير-لمنتجاتك-او-خدماتك /ar/pricing-strategy-for-your-product
+
+Redirect 301 /en/_pricing-strategy-for-your-product-or-service /en/pricing-strategy-for-your-product
+
+Redirect 301 /ar/SEO-services /ar/seo-services
+
+Redirect 301 /en/SEO-services /en/seo-services
+
+ 
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 month"
+</IfModule>
+## EXPIRES CACHING ##
+
+# Cache Control and Enable CORS
+<FilesMatch "\.(js|css|jpg|jpeg|gif|png|pdf|swf|svg|svgz|ico|ttf|ttc|otf|eot|woff|woff2|webp)$">
+ <IfModule mod_headers.c>
+    ExpiresActive On
+    ExpiresDefault  "access plus 1 month"
+ 
+    Header set Cache-Control "public, immutable, max-age=31536000, s-maxage=31536000"
+    Header set Access-Control-Allow-Origin "*"
+ </IfModule>
+</FilesMatch>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

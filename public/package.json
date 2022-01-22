@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "keycode-js": "^3.1.0"
+  }
+}
