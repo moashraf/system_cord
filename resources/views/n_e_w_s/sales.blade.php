@@ -932,8 +932,7 @@
                                     <select class="form-control" name="user_id"
                                         class="browser-default custom-select select-curr  ency">
 
-                                        <option value="NO">No filter </option>
-
+ 
 
 
                                         @foreach ($person as $student)
